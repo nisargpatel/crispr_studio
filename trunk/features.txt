@@ -1,0 +1,42 @@
+
+assembly:
+	goal: output assembly protocols
+
+	be able to input:
+		plasmids
+		sequences
+
+	put x onto a plasmid
+
+
+array generation:
+	goal: given a gene, what are the best spacers to use
+
+	need:
+		input for sequence, repeats, # of spacers, organism, spacer length
+		slide over sequence, generate ordered list based on criteria
+			eliminate any with banned restriction sites
+			homology with repeat consensus
+			hairpinning
+				using primer3
+			homology with other parts of genome
+				download genome
+					ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Bacillus_halodurans_C_125_uid57791/
+				do a local blast
+		output finished array
+		use assembly module to build array
+
+CRISPR information for easy access:
+	annotated cas genes for different organisms along with repeats, leader sequences (not implemented)
+	organism
+		locus if possible
+			gene
+				description of gene (regulation, function, structure)
+				sequence
+				references
+		repeat consensus
+		spacer length
+
+
+notes:
+Global genome information is pulled from NCBI: ftp://ftp.ncbi.nih.gov/genomes/genomeprj/

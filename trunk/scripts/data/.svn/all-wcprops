@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/47/trunk/scripts/data
+END
+jcvi_organism_id.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/35/trunk/scripts/data/jcvi_organism_id.txt
+END
+repeatDB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/scripts/data/repeatDB.txt
+END
+tax_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/scripts/data/tax_info.txt
+END
+casgeneDB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/35/trunk/scripts/data/casgeneDB.txt
+END
+spacerDB_genouest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/scripts/data/spacerDB_genouest.txt
+END
+repeatDB_genouest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/scripts/data/repeatDB_genouest.txt
+END
+spacerDB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/scripts/data/spacerDB.txt
+END
+arrayDB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/scripts/data/arrayDB.txt
+END
+last_update.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/scripts/data/last_update.txt
+END
+tax_info_filtered.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/scripts/data/tax_info_filtered.txt
+END

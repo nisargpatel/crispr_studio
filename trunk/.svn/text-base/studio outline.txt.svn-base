@@ -1,0 +1,31 @@
+
+main folder
+	wrapper for all
+	readme.txt
+	scripts
+		mainframe
+		updater
+			updates:
+				crisprdb info
+				lproks 0, 1, 2
+				outputs: tax_info, arrayDB, casgeneDB
+		config
+		utilities
+			biobrick
+			utilgeneral
+			utilweb
+	data
+		raw
+			ncbi
+				lproks 0, 1, 2
+				genome information
+			crisprdb
+				repeat data
+				spacer data
+			jcvi
+		processed
+			tax_info
+				ref_seq, tax_id, species_name, accession
+				
+			arrayDB
+			casgeneDB

@@ -1,0 +1,37 @@
+Content-Type: text/html; charset=ISO-8859-1
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/pathema/CSS/pathema_page.css">	
+</head>
+<body onLoad="">
+<h3>Software Error</h3><BR>
+<table width='100%' border=1>
+<tr><th>Error text</th></tr>
+<tr><td><font size = 2>Can not open /opt/www/cmr/htdocs/webserver_tmp/tabfile8437_2086.txt !
+</font></td></tr>
+</table>
+
+<p>
+
+<font size = 2>
+Please 
+
+<script language="JavaScript"><!--
+var name = "cmr";
+var domain = "jcvi.org";
+document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+document.write('report this bug</a>');
+// --></script>
+
+by providing us with the page you were attempting to retrieve along with your selections.  Thank you and we apologize for the inconvenience.
+</font>
+
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast
+END
+blast_fasta.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_fasta.txt
+END
+blast_fasta.txt.nsq
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_fasta.txt.nsq
+END
+blast_input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_input.txt
+END
+blast_output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_output.xml
+END
+blast_fasta.txt.nin
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_fasta.txt.nin
+END
+blast_fasta.txt.nhr
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/scripts/data/ncbi/blast/blast_fasta.txt.nhr
+END

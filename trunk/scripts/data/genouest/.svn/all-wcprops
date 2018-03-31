@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/scripts/data/genouest
+END
+archaea_spacers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/trunk/scripts/data/genouest/archaea_spacers.txt
+END
+archaea_repeats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/trunk/scripts/data/genouest/archaea_repeats.txt
+END
+bacteria_spacers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/39/trunk/scripts/data/genouest/bacteria_spacers.txt
+END
+geneoust_array_db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/trunk/scripts/data/genouest/geneoust_array_db.txt
+END
+bacteria_repeats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/39/trunk/scripts/data/genouest/bacteria_repeats.txt
+END
+geneoust_spacers_db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/trunk/scripts/data/genouest/geneoust_spacers_db.txt
+END
+geneoust_repeats_db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/trunk/scripts/data/genouest/geneoust_repeats_db.txt
+END
+genouest.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/scripts/data/genouest/genouest.py
+END

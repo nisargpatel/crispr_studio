@@ -1,0 +1,5692 @@
+(lp0
+(lp1
+S'49725'
+p2
+aS'551115'
+p3
+aS"'Nostoc azollae' 0708"
+p4
+aS'NC_014248,NC_014249,NC_014250'
+p5
+aa(lp6
+S'58167'
+p7
+aS'329726'
+p8
+aS'Acaryochloris marina MBIC11017'
+p9
+aS'NC_009925,NC_009926,NC_009927,NC_009928,NC_009929,NC_009930,NC_009931,NC_009932,NC_009933,NC_009934'
+p10
+aa(lp11
+S'59279'
+p12
+aS'634452'
+p13
+aS'Acetobacter pasteurianus IFO 3283-01'
+p14
+aS'NC_013209,NC_013210,NC_013211,NC_013212,NC_013213,NC_013214,NC_013215'
+p15
+aa(lp16
+S'51423'
+p17
+aS'574087'
+p18
+aS'Acetohalobium arabaticum DSM 5501'
+p19
+aS'NC_014378'
+p20
+aa(lp21
+S'43471'
+p22
+aS'591001'
+p23
+aS'Acidaminococcus fermentans DSM 20731'
+p24
+aS'NC_013740'
+p25
+aa(lp26
+S'51395'
+p27
+aS'666510'
+p28
+aS'Acidilobus saccharovorans 345-15'
+p29
+aS'NC_014374'
+p30
+aa(lp31
+S'59215'
+p32
+aS'525909'
+p33
+aS'Acidimicrobium ferrooxidans DSM 10331'
+p34
+aS'NC_013124'
+p35
+aa(lp36
+S'58447'
+p37
+aS'349163'
+p38
+aS'Acidiphilium cryptum JF-5'
+p39
+aS'NC_009484,NC_009468,NC_009469,NC_009470,NC_009471,NC_009472,NC_009473,NC_009474,NC_009467'
+p40
+aa(lp41
+S'57649'
+p42
+aS'243159'
+p43
+aS'Acidithiobacillus ferrooxidans ATCC 23270'
+p44
+aS'NC_011761'
+p45
+aa(lp46
+S'59127'
+p47
+aS'240015'
+p48
+aS'Acidobacterium capsulatum ATCC 51196'
+p49
+aS'NC_012483'
+p50
+aa(lp51
+S'58501'
+p52
+aS'351607'
+p53
+aS'Acidothermus cellulolyticus 11B'
+p54
+aS'NC_008578'
+p55
+aa(lp56
+S'42497'
+p57
+aS'643561'
+p58
+aS'Acidovorax avenae subsp. avenae ATCC 19860'
+p59
+aS'NC_015138'
+p60
+aa(lp61
+S'59233'
+p62
+aS'535289'
+p63
+aS'Acidovorax ebreus TPSY'
+p64
+aS'NC_011992'
+p65
+aa(lp66
+S'58427'
+p67
+aS'232721'
+p68
+aS'Acidovorax sp. JS42'
+p69
+aS'NC_008782,NC_008766,NC_008765'
+p70
+aa(lp71
+S'43333'
+p72
+aS'439481'
+p73
+aS'Aciduliprofundum boonei T469'
+p74
+aS'NC_013926'
+p75
+aa(lp76
+S'54657'
+p77
+aS'439481'
+p78
+aS'Aciduliprofundum boonei T469'
+p79
+aS''
+p80
+aa(lp81
+S'59083'
+p82
+aS'480119'
+p83
+aS'Acinetobacter baumannii AB0057'
+p84
+aS'NC_011586,NC_011585'
+p85
+aa(lp86
+S'59271'
+p87
+aS'557600'
+p88
+aS'Acinetobacter baumannii AB307-0294'
+p89
+aS'NC_011595'
+p90
+aa(lp91
+S'61637'
+p92
+aS'509173'
+p93
+aS'Acinetobacter baumannii AYE'
+p94
+aS'NC_010410,NC_010401,NC_010402,NC_010403,NC_010404'
+p95
+aa(lp96
+S'61597'
+p97
+aS'62977'
+p98
+aS'Acinetobacter sp. ADP1'
+p99
+aS'NC_005966'
+p100
+aa(lp101
+S'58891'
+p102
+aS'434271'
+p103
+aS'Actinobacillus pleuropneumoniae serovar 3 str. JL03'
+p104
+aS'NC_010278'
+p105
+aa(lp106
+S'58789'
+p107
+aS'416269'
+p108
+aS'Actinobacillus pleuropneumoniae serovar 5b str. L20'
+p109
+aS'NC_009053'
+p110
+aa(lp111
+S'59231'
+p112
+aS'537457'
+p113
+aS'Actinobacillus pleuropneumoniae serovar 7 str. AP76'
+p114
+aS'NC_010939,NC_010941,NC_010942,NC_010940'
+p115
+aa(lp116
+S'58247'
+p117
+aS'339671'
+p118
+aS'Actinobacillus succinogenes 130Z'
+p119
+aS'NC_009655'
+p120
+aa(lp121
+S'57757'
+p122
+aS'272557'
+p123
+aS'Aeropyrum pernix K1'
+p124
+aS'NC_000854'
+p125
+aa(lp126
+S'59407'
+p127
+aS'634176'
+p128
+aS'Aggregatibacter aphrophilus NJ8700'
+p129
+aS'NC_012913'
+p130
+aa(lp131
+S'58985'
+p132
+aS'349741'
+p133
+aS'Akkermansia muciniphila ATCC BAA-835'
+p134
+aS'NC_010655'
+p135
+aa(lp136
+S'49953'
+p137
+aS'596153'
+p138
+aS'Alicycliphilus denitrificans BC'
+p139
+aS'NC_014908,NC_014910,NC_014911'
+p140
+aa(lp141
+S'59199'
+p142
+aS'521098'
+p143
+aS'Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446'
+p144
+aS'NC_013205,NC_013206,NC_013207,NC_013208'
+p145
+aa(lp146
+S'58467'
+p147
+aS'187272'
+p148
+aS'Alkalilimnicola ehrlichii MLHE-1'
+p149
+aS'NC_008340'
+p150
+aa(lp151
+S'58171'
+p152
+aS'293826'
+p153
+aS'Alkaliphilus metalliredigens QYMF'
+p154
+aS'NC_009633'
+p155
+aa(lp156
+S'46083'
+p157
+aS'572477'
+p158
+aS'Allochromatium vinosum DSM 180'
+p159
+aS'NC_013851,NC_013862,NC_013852'
+p160
+aa(lp161
+S'58251'
+p162
+aS'314275'
+p163
+aS"Alteromonas macleodii str. 'Deep ecotype'"
+p164
+aS'NC_011138'
+p165
+aa(lp166
+S'41053'
+p167
+aS'429009'
+p168
+aS'Ammonifex degensii KC4'
+p169
+aS'NC_013385,NC_013386'
+p170
+aa(lp171
+S'50565'
+p172
+aS'749927'
+p173
+aS'Amycolatopsis mediterranei U32'
+p174
+aS'NC_014318'
+p175
+aa(lp176
+S'58043'
+p177
+aS'240292'
+p178
+aS'Anabaena variabilis ATCC 29413'
+p179
+aS'NC_014000,NC_007411,NC_007412,NC_007410,NC_007413'
+p180
+aa(lp181
+S'62245'
+p182
+aS'926569'
+p183
+aS'Anaerolinea thermophila UNI-1'
+p184
+aS'NC_014960'
+p185
+aa(lp186
+S'58989'
+p187
+aS'455488'
+p188
+aS'Anaeromyxobacter dehalogenans 2CP-1'
+p189
+aS'NC_011891'
+p190
+aa(lp191
+S'58953'
+p192
+aS'447217'
+p193
+aS'Anaeromyxobacter sp. K'
+p194
+aS'NC_011145'
+p195
+aa(lp196
+S'59135'
+p197
+aS'491915'
+p198
+aS'Anoxybacillus flavithermus WK1'
+p199
+aS'NC_011567'
+p200
+aa(lp201
+S'57765'
+p202
+aS'224324'
+p203
+aS'Aquifex aeolicus VF5'
+p204
+aS'NC_000918,NC_001880'
+p205
+aa(lp206
+S'49489'
+p207
+aS'644284'
+p208
+aS'Arcanobacterium haemolyticum DSM 20595'
+p209
+aS'NC_014218'
+p210
+aa(lp211
+S'57717'
+p212
+aS'224325'
+p213
+aS'Archaeoglobus fulgidus DSM 4304'
+p214
+aS'NC_000917'
+p215
+aa(lp216
+S'49001'
+p217
+aS'572480'
+p218
+aS'Arcobacter nitrofigilis DSM 7299'
+p219
+aS'NC_014166'
+p220
+aa(lp221
+S'58231'
+p222
+aS'76114'
+p223
+aS'Aromatoleum aromaticum EbN1'
+p224
+aS'NC_006513,NC_006823,NC_006824'
+p225
+aa(lp226
+S'58969'
+p227
+aS'452863'
+p228
+aS'Arthrobacter chlorophenolicus A6'
+p229
+aS'NC_011886,NC_011881,NC_011879'
+p230
+aa(lp231
+S'46085'
+p232
+aS'137722'
+p233
+aS'Azospirillum sp. B510'
+p234
+aS'NC_013854,NC_013856,NC_013857,NC_013858,NC_013859,NC_013860,NC_013855'
+p235
+aa(lp236
+S'57597'
+p237
+aS'322710'
+p238
+aS'Azotobacter vinelandii DJ'
+p239
+aS'NC_012560'
+p240
+aa(lp241
+S'58237'
+p242
+aS'66692'
+p243
+aS'Bacillus clausii KSM-K16'
+p244
+aS'NC_006582'
+p245
+aa(lp246
+S'58317'
+p247
+aS'315749'
+p248
+aS'Bacillus cytotoxicus NVH 391-98'
+p249
+aS'NC_009674,NC_009673'
+p250
+aa(lp251
+S'57791'
+p252
+aS'272558'
+p253
+aS'Bacillus halodurans C-125'
+p254
+aS'NC_002570'
+p255
+aa(lp256
+S'48361'
+p257
+aS'562970'
+p258
+aS'Bacillus tusciae DSM 2912'
+p259
+aS'NC_014098'
+p260
+aa(lp261
+S'57639'
+p262
+aS'272559'
+p263
+aS'Bacteroides fragilis NCTC 9343'
+p264
+aS'NC_003228,NC_006873'
+p265
+aa(lp266
+S'58195'
+p267
+aS'295405'
+p268
+aS'Bacteroides fragilis YCH46'
+p269
+aS'NC_006347,NC_006297'
+p270
+aa(lp271
+S'62135'
+p272
+aS'693979'
+p273
+aS'Bacteroides helcogenes P 36-108'
+p274
+aS'NC_014933'
+p275
+aa(lp276
+S'58559'
+p277
+aS'367928'
+p278
+aS'Bifidobacterium adolescentis ATCC 15703'
+p279
+aS'NC_008618'
+p280
+aa(lp281
+S'58911'
+p282
+aS'442563'
+p283
+aS'Bifidobacterium animalis subsp. lactis AD011'
+p284
+aS'NC_011835'
+p285
+aa(lp286
+S'59359'
+p287
+aS'580050'
+p288
+aS'Bifidobacterium animalis subsp. lactis Bl-04'
+p289
+aS'NC_012814'
+p290
+aa(lp291
+S'59357'
+p292
+aS'555970'
+p293
+aS'Bifidobacterium animalis subsp. lactis DSM 10140'
+p294
+aS'NC_012815'
+p295
+aa(lp296
+S'59545'
+p297
+aS'883062'
+p298
+aS'Bifidobacterium bifidum S17'
+p299
+aS'NC_014616'
+p300
+aa(lp301
+S'43091'
+p302
+aS'401473'
+p303
+aS'Bifidobacterium dentium Bd1'
+p304
+aS'NC_013714'
+p305
+aa(lp306
+S'54103'
+p307
+aS'205913'
+p308
+aS'Bifidobacterium longum DJO10A'
+p309
+aS'NC_010816,NC_004252,NC_004253'
+p310
+aa(lp311
+S'58833'
+p312
+aS'205913'
+p313
+aS'Bifidobacterium longum DJO10A'
+p314
+ag80
+aa(lp315
+S'60163'
+p316
+aS'890402'
+p317
+aS'Bifidobacterium longum subsp. longum BBMN68'
+p318
+aS'NC_014656'
+p319
+aa(lp320
+S'48819'
+p321
+aS'526224'
+p322
+aS'Brachyspira murdochii DSM 12563'
+p323
+aS'NC_014150'
+p324
+aa(lp325
+S'58303'
+p326
+aS'339670'
+p327
+aS'Burkholderia ambifaria AMMD'
+p328
+aS'NC_008385,NC_008390,NC_008391,NC_008392'
+p329
+aa(lp330
+S'59201'
+p331
+aS'521460'
+p332
+aS'Caldicellulosiruptor bescii DSM 6725'
+p333
+aS'NC_012034,NC_012037,NC_012036'
+p334
+aa(lp335
+S'60157'
+p336
+aS'632292'
+p337
+aS'Caldicellulosiruptor hydrothermalis 108'
+p338
+aS'NC_014652'
+p339
+aa(lp340
+S'60393'
+p341
+aS'632335'
+p342
+aS'Caldicellulosiruptor kristjanssonii 177R1B'
+p343
+aS'NC_014719,NC_014721'
+p344
+aa(lp345
+S'60491'
+p346
+aS'632348'
+p347
+aS'Caldicellulosiruptor kronotskyensis 2002'
+p348
+aS'NC_014720'
+p349
+aa(lp350
+S'51501'
+p351
+aS'608506'
+p352
+aS'Caldicellulosiruptor obsidiansis OB47'
+p353
+aS'NC_014392'
+p354
+aa(lp355
+S'60165'
+p356
+aS'632518'
+p357
+aS'Caldicellulosiruptor owensensis OL'
+p358
+aS'NC_014657'
+p359
+aa(lp360
+S'58289'
+p361
+aS'351627'
+p362
+aS'Caldicellulosiruptor saccharolyticus DSM 8903'
+p363
+aS'NC_009437'
+p364
+aa(lp365
+S'60821'
+p366
+aS'768670'
+p367
+aS'Calditerrivibrio nitroreducens DSM 19672'
+p368
+aS'NC_014749,NC_014758'
+p369
+aa(lp370
+S'58711'
+p371
+aS'397948'
+p372
+aS'Caldivirga maquilingensis IC-167'
+p373
+aS'NC_009954'
+p374
+aa(lp375
+S'58669'
+p376
+aS'360105'
+p377
+aS'Campylobacter curvus 525.92'
+p378
+aS'NC_009715'
+p379
+aa(lp380
+S'58545'
+p381
+aS'360106'
+p382
+aS'Campylobacter fetus subsp. fetus 82-40'
+p383
+aS'NC_008599'
+p384
+aa(lp385
+S'58981'
+p386
+aS'360107'
+p387
+aS'Campylobacter hominis ATCC BAA-381'
+p388
+aS'NC_009714,NC_009713'
+p389
+aa(lp390
+S'57899'
+p391
+aS'195099'
+p392
+aS'Campylobacter jejuni RM1221'
+p393
+aS'NC_003912'
+p394
+aa(lp395
+S'58671'
+p396
+aS'360109'
+p397
+aS'Campylobacter jejuni subsp. doylei 269.97'
+p398
+aS'NC_009707'
+p399
+aa(lp400
+S'58771'
+p401
+aS'407148'
+p402
+aS'Campylobacter jejuni subsp. jejuni 81116'
+p403
+aS'NC_009839'
+p404
+aa(lp405
+S'61249'
+p406
+aS'757425'
+p407
+aS'Campylobacter jejuni subsp. jejuni ICDCCJ07001'
+p408
+aS'NC_014801,NC_014802'
+p409
+aa(lp410
+S'57587'
+p411
+aS'192222'
+p412
+aS'Campylobacter jejuni subsp. jejuni NCTC 11168'
+p413
+aS'NC_002163'
+p414
+aa(lp415
+S'59207'
+p416
+aS'522306'
+p417
+aS'Candidatus Accumulibacter phosphatis clade IIA str. UW-1'
+p418
+aS'NC_013194,NC_013190,NC_013193,NC_013191'
+p419
+aa(lp420
+S'59067'
+p421
+aS'477974'
+p422
+aS'Candidatus Desulforudis audaxviator MP104C'
+p423
+aS'NC_010424'
+p424
+aa(lp425
+S'58601'
+p426
+aS'374847'
+p427
+aS'Candidatus Korarchaeum cryptofilum OPF8'
+p428
+aS'NC_010482'
+p429
+aa(lp430
+S'51175'
+p431
+aS'330214'
+p432
+aS'Candidatus Nitrospira defluvii'
+p433
+aS'NC_014355'
+p434
+aa(lp435
+S'47081'
+p436
+aS'488538'
+p437
+aS'Candidatus Puniceispirillum marinum IMCC1322'
+p438
+aS'NC_014010'
+p439
+aa(lp440
+S'59197'
+p441
+aS'521097'
+p442
+aS'Capnocytophaga ochracea DSM 7271'
+p443
+aS'NC_013162'
+p444
+aa(lp445
+S'57821'
+p446
+aS'246194'
+p447
+aS'Carboxydothermus hydrogenoformans Z-2901'
+p448
+aS'NC_007503'
+p449
+aa(lp450
+S'59077'
+p451
+aS'479433'
+p452
+aS'Catenulispora acidiphila DSM 44928'
+p453
+aS'NC_013131'
+p454
+aa(lp455
+S'59139'
+p456
+aS'498211'
+p457
+aS'Cellvibrio japonicus Ueda107'
+p458
+aS'NC_010995'
+p459
+aa(lp460
+S'59185'
+p461
+aS'517417'
+p462
+aS'Chlorobaculum parvum NCIB 8327'
+p463
+aS'NC_011027'
+p464
+aa(lp465
+S'58375'
+p466
+aS'340177'
+p467
+aS'Chlorobium chlorochromatii CaD3'
+p468
+aS'NC_007514'
+p469
+aa(lp470
+S'58127'
+p471
+aS'290315'
+p472
+aS'Chlorobium limicola DSM 245'
+p473
+aS'NC_010803'
+p474
+aa(lp475
+S'58175'
+p476
+aS'319225'
+p477
+aS'Chlorobium luteolum DSM 273'
+p478
+aS'NC_007512'
+p479
+aa(lp480
+S'58131'
+p481
+aS'331678'
+p482
+aS'Chlorobium phaeobacteroides BS1'
+p483
+aS'NC_010831'
+p484
+aa(lp485
+S'58133'
+p486
+aS'290317'
+p487
+aS'Chlorobium phaeobacteroides DSM 266'
+p488
+aS'NC_008639'
+p489
+aa(lp490
+S'58129'
+p491
+aS'290318'
+p492
+aS'Chlorobium phaeovibrioides DSM 265'
+p493
+aS'NC_009337'
+p494
+aa(lp495
+S'57897'
+p496
+aS'194439'
+p497
+aS'Chlorobium tepidum TLS'
+p498
+aS'NC_002932'
+p499
+aa(lp500
+S'58621'
+p501
+aS'326427'
+p502
+aS'Chloroflexus aggregans DSM 9485'
+p503
+aS'NC_011831'
+p504
+aa(lp505
+S'57657'
+p506
+aS'324602'
+p507
+aS'Chloroflexus aurantiacus J-10-fl'
+p508
+aS'NC_010175'
+p509
+aa(lp510
+S'59085'
+p511
+aS'480224'
+p512
+aS'Chloroflexus sp. Y-400-fl'
+p513
+aS'NC_012032'
+p514
+aa(lp515
+S'59187'
+p516
+aS'517418'
+p517
+aS'Chloroherpeton thalassium ATCC 35110'
+p518
+aS'NC_011026'
+p519
+aa(lp520
+S'58001'
+p521
+aS'243365'
+p522
+aS'Chromobacterium violaceum ATCC 12472'
+p523
+aS'NC_005085'
+p524
+aa(lp525
+g80
+aS'290398'
+p526
+aS'Chromohalobacter salexigens DSM 3043'
+p527
+aS'NC_007963'
+p528
+aa(lp529
+S'62921'
+p530
+aS'290398'
+p531
+aS'Chromohalobacter salexigens DSM 3043'
+p532
+ag80
+aa(lp533
+S'58143'
+p534
+aS'290338'
+p535
+aS'Citrobacter koseri ATCC BAA-895'
+p536
+aS'NC_009792,NC_009794,NC_009793'
+p537
+aa(lp538
+S'43089'
+p539
+aS'637910'
+p540
+aS'Citrobacter rodentium ICC168'
+p541
+aS'NC_013716,NC_013718,NC_013719,NC_013717'
+p542
+aa(lp543
+S'58927'
+p544
+aS'441770'
+p545
+aS'Clostridium botulinum A str. ATCC 19397'
+p546
+aS'NC_009697'
+p547
+aa(lp548
+S'61579'
+p549
+aS'413999'
+p550
+aS'Clostridium botulinum A str. ATCC 3502'
+p551
+aS'NC_009495,NC_009496'
+p552
+aa(lp553
+S'58931'
+p554
+aS'441771'
+p555
+aS'Clostridium botulinum A str. Hall'
+p556
+aS'NC_009698'
+p557
+aa(lp558
+S'59229'
+p559
+aS'536232'
+p560
+aS'Clostridium botulinum A2 str. Kyoto'
+p561
+aS'NC_012563'
+p562
+aa(lp563
+S'59149'
+p564
+aS'498214'
+p565
+aS'Clostridium botulinum A3 str. Loch Maree'
+p566
+aS'NC_010520,NC_010418'
+p567
+aa(lp568
+g80
+aS'508765'
+p569
+aS'Clostridium botulinum B str. Eklund 17B'
+p570
+aS'NC_010674,NC_010680'
+p571
+aa(lp572
+S'59159'
+p573
+aS'508765'
+p574
+aS'Clostridium botulinum B str. Eklund 17B'
+p575
+ag80
+aa(lp576
+S'59147'
+p577
+aS'498213'
+p578
+aS'Clostridium botulinum B1 str. Okra'
+p579
+aS'NC_010516,NC_010379'
+p580
+aa(lp581
+S'59173'
+p582
+aS'515621'
+p583
+aS'Clostridium botulinum Ba4 str. 657'
+p584
+aS'NC_012658,NC_012657,NC_012654'
+p585
+aa(lp586
+S'59157'
+p587
+aS'508767'
+p588
+aS'Clostridium botulinum E3 str. Alaska E43'
+p589
+aS'NC_010723'
+p590
+aa(lp591
+S'58929'
+p592
+aS'441772'
+p593
+aS'Clostridium botulinum F str. Langeland'
+p594
+aS'NC_009699,NC_009700'
+p595
+aa(lp596
+S'58709'
+p597
+aS'394503'
+p598
+aS'Clostridium cellulolyticum H10'
+p599
+aS'NC_011898'
+p600
+aa(lp601
+S'51503'
+p602
+aS'573061'
+p603
+aS'Clostridium cellulovorans 743B'
+p604
+aS'NC_014393'
+p605
+aa(lp606
+S'52819'
+p607
+aS'573061'
+p608
+aS'Clostridium cellulovorans 743B'
+p609
+ag80
+aa(lp610
+S'57679'
+p611
+aS'272563'
+p612
+aS'Clostridium difficile 630'
+p613
+aS'NC_009089,NC_008226'
+p614
+aa(lp615
+S'41017'
+p616
+aS'645462'
+p617
+aS'Clostridium difficile CD196'
+p618
+aS'NC_013315'
+p619
+aa(lp620
+S'40921'
+p621
+aS'645463'
+p622
+aS'Clostridium difficile R20291'
+p623
+aS'NC_013316'
+p624
+aa(lp625
+S'58885'
+p626
+aS'431943'
+p627
+aS'Clostridium kluyveri DSM 555'
+p628
+aS'NC_009706,NC_009466'
+p629
+aa(lp630
+S'59369'
+p631
+aS'583346'
+p632
+aS'Clostridium kluyveri NBRC 12016'
+p633
+aS'NC_011837,NC_011836'
+p634
+aa(lp635
+S'58643'
+p636
+aS'386415'
+p637
+aS'Clostridium novyi NT'
+p638
+aS'NC_008593'
+p639
+aa(lp640
+S'57901'
+p641
+aS'195103'
+p642
+aS'Clostridium perfringens ATCC 13124'
+p643
+aS'NC_008261'
+p644
+aa(lp645
+S'58117'
+p646
+aS'289380'
+p647
+aS'Clostridium perfringens SM101'
+p648
+aS'NC_008262,NC_008264,NC_008265,NC_008263'
+p649
+aa(lp650
+S'51419'
+p651
+aS'610130'
+p652
+aS'Clostridium saccharolyticum WM1'
+p653
+aS'NC_014376'
+p654
+aa(lp655
+S'57683'
+p656
+aS'212717'
+p657
+aS'Clostridium tetani E88'
+p658
+aS'NC_004557,NC_004565'
+p659
+aa(lp660
+S'57917'
+p661
+aS'203119'
+p662
+aS'Clostridium thermocellum ATCC 27405'
+p663
+aS'NC_009012'
+p664
+aa(lp665
+S'59253'
+p666
+aS'309798'
+p667
+aS'Coprothermobacter proteolyticus DSM 5265'
+p668
+aS'NC_011295'
+p669
+aa(lp670
+S'59409'
+p671
+aS'548476'
+p672
+aS'Corynebacterium aurimucosum ATCC 700975'
+p673
+aS'NC_012590,NC_010813'
+p674
+aa(lp675
+S'55473'
+p676
+aS'548476'
+p677
+aS'Corynebacterium aurimucosum ATCC 700975'
+p678
+ag80
+aa(lp679
+S'57691'
+p680
+aS'257309'
+p681
+aS'Corynebacterium diphtheriae NCTC 13129'
+p682
+aS'NC_002935'
+p683
+aa(lp684
+S'55881'
+p685
+aS'196164'
+p686
+aS'Corynebacterium efficiens YS-314'
+p687
+aS'NC_004320,NC_004369,NC_004319'
+p688
+aa(lp689
+S'62905'
+p690
+aS'196164'
+p691
+aS'Corynebacterium efficiens YS-314'
+p692
+ag80
+aa(lp693
+S'58897'
+p694
+aS'340322'
+p695
+aS'Corynebacterium glutamicum R'
+p696
+aS'NC_009342,NC_009343'
+p697
+aa(lp698
+S'58399'
+p699
+aS'306537'
+p700
+aS'Corynebacterium jeikeium K411'
+p701
+aS'NC_007164,NC_003080'
+p702
+aa(lp703
+S'61639'
+p704
+aS'504474'
+p705
+aS'Corynebacterium urealyticum DSM 7109'
+p706
+aS'NC_010545'
+p707
+aa(lp708
+S'58145'
+p709
+aS'290339'
+p710
+aS'Cronobacter sakazakii ATCC BAA-894'
+p711
+aS'NC_009778,NC_009780,NC_009779'
+p712
+aa(lp713
+S'40821'
+p714
+aS'693216'
+p715
+aS'Cronobacter turicensis z3032'
+p716
+aS'NC_013282,NC_013285,NC_013284,NC_013283'
+p717
+aa(lp718
+S'59013'
+p719
+aS'43989'
+p720
+aS'Cyanothece sp. ATCC 51142'
+p721
+aS'NC_010546,NC_010542,NC_010543,NC_010539,NC_010547,NC_010541'
+p722
+aa(lp723
+S'59025'
+p724
+aS'65393'
+p725
+aS'Cyanothece sp. PCC 7424'
+p726
+aS'NC_011729,NC_011737,NC_011730,NC_011732,NC_011733,NC_011734,NC_011738'
+p727
+aa(lp728
+S'59435'
+p729
+aS'395961'
+p730
+aS'Cyanothece sp. PCC 7425'
+p731
+aS'NC_011884,NC_011885,NC_011882,NC_011880'
+p732
+aa(lp733
+S'52547'
+p734
+aS'497965'
+p735
+aS'Cyanothece sp. PCC 7822'
+p736
+aS'NC_014501,NC_014504,NC_014503,NC_014502,NC_014535,NC_014534,NC_014533'
+p737
+aa(lp738
+S'59027'
+p739
+aS'41431'
+p740
+aS'Cyanothece sp. PCC 8801'
+p741
+aS'NC_011726,NC_011723,NC_011727,NC_011721'
+p742
+aa(lp743
+S'59143'
+p744
+aS'395962'
+p745
+aS'Cyanothece sp. PCC 8802'
+p746
+aS'NC_013161,NC_013160,NC_013167,NC_013168,NC_013163'
+p747
+aa(lp748
+S'46653'
+p749
+aS'639282'
+p750
+aS'Deferribacter desulfuricans SSM1'
+p751
+aS'NC_013939,NC_013940'
+p752
+aa(lp753
+S'58477'
+p754
+aS'216389'
+p755
+aS'Dehalococcoides sp. BAV1'
+p756
+aS'NC_009455'
+p757
+aa(lp758
+S'58413'
+p759
+aS'255470'
+p760
+aS'Dehalococcoides sp. CBDB1'
+p761
+aS'NC_007356'
+p762
+aa(lp763
+S'42115'
+p764
+aS'633145'
+p765
+aS'Dehalococcoides sp. GT'
+p766
+aS'NC_013890'
+p767
+aa(lp768
+S'58275'
+p769
+aS'319795'
+p770
+aS'Deinococcus geothermalis DSM 11300'
+p771
+aS'NC_008025,NC_009939,NC_008010'
+p772
+aa(lp773
+S'63399'
+p774
+aS'693977'
+p775
+aS'Deinococcus proteolyticus MRP'
+p776
+aS'NC_015161,NC_015162,NC_015163,NC_015169,NC_015170'
+p777
+aa(lp778
+S'58703'
+p779
+aS'398578'
+p780
+aS'Delftia acidovorans SPH-1'
+p781
+aS'NC_010002'
+p782
+aa(lp783
+S'51371'
+p784
+aS'644282'
+p785
+aS'Desulfarculus baarsii DSM 2075'
+p786
+aS'NC_014365'
+p787
+aa(lp788
+S'58913'
+p789
+aS'439235'
+p790
+aS'Desulfatibacillum alkenivorans AK-01'
+p791
+aS'NC_011768'
+p792
+aa(lp793
+S'57749'
+p794
+aS'272564'
+p795
+aS'Desulfitobacterium hafniense DCB-2'
+p796
+aS'NC_011830'
+p797
+aa(lp798
+S'58605'
+p799
+aS'138119'
+p800
+aS'Desulfitobacterium hafniense Y51'
+p801
+aS'NC_007907'
+p802
+aa(lp803
+S'59061'
+p804
+aS'177437'
+p805
+aS'Desulfobacterium autotrophicum HRM2'
+p806
+aS'NC_012108,NC_012109'
+p807
+aa(lp808
+S'62265'
+p809
+aS'577650'
+p810
+aS'Desulfobulbus propionicus DSM 2032'
+p811
+aS'NC_014972'
+p812
+aa(lp813
+S'58777'
+p814
+aS'96561'
+p815
+aS'Desulfococcus oleovorans Hxd3'
+p816
+aS'NC_009943'
+p817
+aa(lp818
+S'59183'
+p819
+aS'485915'
+p820
+aS'Desulfohalobium retbaense DSM 5692'
+p821
+aS'NC_013223,NC_013224'
+p822
+aa(lp823
+S'58153'
+p824
+aS'177439'
+p825
+aS'Desulfotalea psychrophila LSv54'
+p826
+aS'NC_006138,NC_006139,NC_006140'
+p827
+aa(lp828
+S'59109'
+p829
+aS'485916'
+p830
+aS'Desulfotomaculum acetoxidans DSM 771'
+p831
+aS'NC_013216'
+p832
+aa(lp833
+S'58277'
+p834
+aS'349161'
+p835
+aS'Desulfotomaculum reducens MI-1'
+p836
+aS'NC_009253'
+p837
+aa(lp838
+S'57941'
+p839
+aS'207559'
+p840
+aS'Desulfovibrio alaskensis G20'
+p841
+aS'NC_007519'
+p842
+aa(lp843
+S'59213'
+p844
+aS'525146'
+p845
+aS'Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774'
+p846
+aS'NC_011883'
+p847
+aa(lp848
+S'58679'
+p849
+aS'391774'
+p850
+aS'Desulfovibrio vulgaris DP4'
+p851
+aS'NC_008751,NC_008741'
+p852
+aa(lp853
+S'59089'
+p854
+aS'883'
+p855
+aS"Desulfovibrio vulgaris str. 'Miyazaki F'"
+p856
+aS'NC_011769'
+p857
+aa(lp858
+S'57645'
+p859
+aS'882'
+p860
+aS'Desulfovibrio vulgaris str. Hildenborough'
+p861
+aS'NC_002937,NC_005863'
+p862
+aa(lp863
+S'45897'
+p864
+aS'653733'
+p865
+aS'Desulfurispirillum indicum S5'
+p866
+aS'NC_014836'
+p867
+aa(lp868
+S'49487'
+p869
+aS'589865'
+p870
+aS'Desulfurivibrio alkaliphilus AHT2'
+p871
+aS'NC_014216'
+p872
+aa(lp873
+S'63405'
+p874
+aS'868864'
+p875
+aS'Desulfurobacterium thermolithotrophum DSM 11699'
+p876
+aS'NC_015185'
+p877
+aa(lp878
+S'59133'
+p879
+aS'490899'
+p880
+aS'Desulfurococcus kamchatkensis 1221n'
+p881
+aS'NC_011766'
+p882
+aa(lp883
+S'62227'
+p884
+aS'765177'
+p885
+aS'Desulfurococcus mucosus DSM 2162'
+p886
+aS'NC_014961'
+p887
+aa(lp888
+S'57643'
+p889
+aS'246195'
+p890
+aS'Dichelobacter nodosus VCS1703A'
+p891
+aS'NC_009446'
+p892
+aa(lp893
+S'52537'
+p894
+aS'198628'
+p895
+aS'Dickeya dadantii 3937'
+p896
+aS'NC_014500'
+p897
+aa(lp898
+S'59363'
+p899
+aS'579405'
+p900
+aS'Dickeya dadantii Ech703'
+p901
+aS'NC_012880'
+p902
+aa(lp903
+S'59297'
+p904
+aS'561229'
+p905
+aS'Dickeya zeae Ech1591'
+p906
+aS'NC_012912'
+p907
+aa(lp908
+S'59439'
+p909
+aS'309799'
+p910
+aS'Dictyoglomus thermophilum H-6-12'
+p911
+aS'NC_011297'
+p912
+aa(lp913
+S'59177'
+p914
+aS'515635'
+p915
+aS'Dictyoglomus turgidum DSM 6724'
+p916
+aS'NC_011661'
+p917
+aa(lp918
+S'58707'
+p919
+aS'398580'
+p920
+aS'Dinoroseobacter shibae DFL 12'
+p921
+aS'NC_009952,NC_009956,NC_009957,NC_009958,NC_009959,NC_009955'
+p922
+aa(lp923
+S'59079'
+p924
+aS'479437'
+p925
+aS'Eggerthella lenta DSM 2243'
+p926
+aS'NC_013204'
+p927
+aa(lp928
+S'58949'
+p929
+aS'445932'
+p930
+aS'Elusimicrobium minutum Pei191'
+p931
+aS'NC_010644'
+p932
+aa(lp933
+S'58727'
+p934
+aS'399742'
+p935
+aS'Enterobacter sp. 638'
+p936
+aS'NC_009436,NC_009425'
+p937
+aa(lp938
+S'46943'
+p939
+aS'716540'
+p940
+aS'Erwinia amylovora ATCC 49946'
+p941
+aS'NC_013972,NC_013973,NC_013971'
+p942
+aa(lp943
+S'46839'
+p944
+aS'665029'
+p945
+aS'Erwinia amylovora CFBP1430'
+p946
+aS'NC_013957,NC_013961'
+p947
+aa(lp948
+S'40659'
+p949
+aS'634499'
+p950
+aS'Erwinia pyrifoliae Ep1/96'
+p951
+aS'NC_012214,NC_013265,NC_013264,NC_013263,NC_013954'
+p952
+aa(lp953
+S'59029'
+p954
+aS'465817'
+p955
+aS'Erwinia tasmaniensis Et1/99'
+p956
+aS'NC_010694,NC_010695,NC_010696,NC_010697,NC_010699,NC_010693'
+p957
+aa(lp958
+S'59245'
+p959
+aS'866768'
+p960
+aS"Escherichia coli 'BL21-Gold(DE3)pLysS AG'"
+p961
+aS'NC_012947'
+p962
+aa(lp963
+S'58531'
+p964
+aS'362663'
+p965
+aS'Escherichia coli 536'
+p966
+aS'NC_008253'
+p967
+aa(lp968
+S'59383'
+p969
+aS'585055'
+p970
+aS'Escherichia coli 55989'
+p971
+aS'NC_011748'
+p972
+aa(lp973
+S'58623'
+p974
+aS'405955'
+p975
+aS'Escherichia coli APEC O1'
+p976
+aS'NC_008563,NC_009838,NC_009837'
+p977
+aa(lp978
+S'58783'
+p979
+aS'481805'
+p980
+aS'Escherichia coli ATCC 8739'
+p981
+aS'NC_010468'
+p982
+aa(lp983
+S'58803'
+p984
+aS'413997'
+p985
+aS'Escherichia coli B str. REL606'
+p986
+aS'NC_012967'
+p987
+aa(lp988
+S'59391'
+p989
+aS'595496'
+p990
+aS'Escherichia coli BW2952'
+p991
+aS'NC_012759'
+p992
+aa(lp993
+S'58395'
+p994
+aS'331111'
+p995
+aS'Escherichia coli E24377A'
+p996
+aS'NC_009801,NC_009787,NC_009788,NC_009789,NC_009790,NC_009791,NC_009786'
+p997
+aa(lp998
+S'59379'
+p999
+aS'585397'
+p1000
+aS'Escherichia coli ED1a'
+p1001
+aS'NC_011745'
+p1002
+aa(lp1003
+S'58393'
+p1004
+aS'331112'
+p1005
+aS'Escherichia coli HS'
+p1006
+aS'NC_009800'
+p1007
+aa(lp1008
+S'59377'
+p1009
+aS'585034'
+p1010
+aS'Escherichia coli IAI1'
+p1011
+aS'NC_011741'
+p1012
+aa(lp1013
+S'59381'
+p1014
+aS'585057'
+p1015
+aS'Escherichia coli IAI39'
+p1016
+aS'NC_011750'
+p1017
+aa(lp1018
+S'41013'
+p1019
+aS'585395'
+p1020
+aS'Escherichia coli O103:H2 str. 12009'
+p1021
+aS'NC_013353,NC_013354'
+p1022
+aa(lp1023
+S'41023'
+p1024
+aS'585396'
+p1025
+aS'Escherichia coli O111:H- str. 11128'
+p1026
+aS'NC_013364,NC_013366,NC_013367,NC_013368,NC_013370,NC_013365'
+p1027
+aa(lp1028
+S'59091'
+p1029
+aS'444450'
+p1030
+aS'Escherichia coli O157:H7 str. EC4115'
+p1031
+aS'NC_011353,NC_011351,NC_011350'
+p1032
+aa(lp1033
+S'57831'
+p1034
+aS'155864'
+p1035
+aS'Escherichia coli O157:H7 str. EDL933'
+p1036
+aS'NC_002655,NC_007414'
+p1037
+aa(lp1038
+S'57781'
+p1039
+aS'386585'
+p1040
+aS'Escherichia coli O157:H7 str. Sakai'
+p1041
+aS'NC_002695,NC_002128,NC_002127'
+p1042
+aa(lp1043
+S'59235'
+p1044
+aS'544404'
+p1045
+aS'Escherichia coli O157:H7 str. TW14359'
+p1046
+aS'NC_013008,NC_013010'
+p1047
+aa(lp1048
+S'41021'
+p1049
+aS'573235'
+p1050
+aS'Escherichia coli O26:H11 str. 11368'
+p1051
+aS'NC_013361,NC_013363,NC_013369,NC_013362,NC_014543'
+p1052
+aa(lp1053
+S'46655'
+p1054
+aS'701177'
+p1055
+aS'Escherichia coli O55:H7 str. CB9615'
+p1056
+aS'NC_013941,NC_013942'
+p1057
+aa(lp1058
+S'62979'
+p1059
+aS'585035'
+p1060
+aS'Escherichia coli S88'
+p1061
+aS'NC_011742,NC_011747'
+p1062
+aa(lp1063
+S'59425'
+p1064
+aS'409438'
+p1065
+aS'Escherichia coli SE11'
+p1066
+aS'NC_011415,NC_011408,NC_011411,NC_011413,NC_011416,NC_011419,NC_011407'
+p1067
+aa(lp1068
+S'58919'
+p1069
+aS'439855'
+p1070
+aS'Escherichia coli SMS-3-5'
+p1071
+aS'NC_010498,NC_010486,NC_010487,NC_010488,NC_010485'
+p1072
+aa(lp1073
+S'62981'
+p1074
+aS'585056'
+p1075
+aS'Escherichia coli UMN026'
+p1076
+aS'NC_011751,NC_011749,NC_011739'
+p1077
+aa(lp1078
+S'58541'
+p1079
+aS'364106'
+p1080
+aS'Escherichia coli UTI89'
+p1081
+aS'NC_007946,NC_007941'
+p1082
+aa(lp1083
+g80
+aS'316385'
+p1084
+aS'Escherichia coli str. K-12 substr. DH10B'
+p1085
+aS'NC_010473'
+p1086
+aa(lp1087
+S'58979'
+p1088
+aS'316385'
+p1089
+aS'Escherichia coli str. K-12 substr. DH10B'
+p1090
+ag80
+aa(lp1091
+g80
+aS'511145'
+p1092
+aS'Escherichia coli str. K-12 substr. MG1655'
+p1093
+aS'NC_000913'
+p1094
+aa(lp1095
+g80
+aS'511145'
+p1096
+aS'Escherichia coli str. K-12 substr. MG1655'
+p1097
+ag80
+aa(lp1098
+g80
+aS'511145'
+p1099
+aS'Escherichia coli str. K-12 substr. MG1655'
+p1100
+ag80
+aa(lp1101
+g80
+aS'511145'
+p1102
+aS'Escherichia coli str. K-12 substr. MG1655'
+p1103
+ag80
+aa(lp1104
+S'57779'
+p1105
+aS'511145'
+p1106
+aS'Escherichia coli str. K-12 substr. MG1655'
+p1107
+ag80
+aa(lp1108
+S'59375'
+p1109
+aS'585054'
+p1110
+aS'Escherichia fergusonii ATCC 35469'
+p1111
+aS'NC_011740,NC_011743'
+p1112
+aa(lp1113
+S'46255'
+p1114
+aS'663278'
+p1115
+aS'Ethanoligenens harbinense YUAN-3'
+p1116
+aS'NC_014828'
+p1117
+aa(lp1118
+S'59171'
+p1119
+aS'515620'
+p1120
+aS'Eubacterium eligens ATCC 27750'
+p1121
+aS'NC_012778,NC_012780,NC_012782'
+p1122
+aa(lp1123
+S'59777'
+p1124
+aS'903814'
+p1125
+aS'Eubacterium limosum KIST612'
+p1126
+aS'NC_014624'
+p1127
+aa(lp1128
+S'59169'
+p1129
+aS'515619'
+p1130
+aS'Eubacterium rectale ATCC 33656'
+p1131
+aS'NC_012781'
+p1132
+aa(lp1133
+S'58053'
+p1134
+aS'262543'
+p1135
+aS'Exiguobacterium sibiricum 255-15'
+p1136
+aS'NC_010556,NC_010550,NC_010549'
+p1137
+aa(lp1138
+S'40863'
+p1139
+aS'589924'
+p1140
+aS'Ferroglobus placidus DSM 10642'
+p1141
+aS'NC_013849'
+p1142
+aa(lp1143
+S'58625'
+p1144
+aS'381764'
+p1145
+aS'Fervidobacterium nodosum Rt17-B1'
+p1146
+aS'NC_009718'
+p1147
+aa(lp1148
+g80
+aS'59374'
+p1149
+aS'Fibrobacter succinogenes subsp. succinogenes S85'
+p1150
+aS'NC_013410'
+p1151
+aa(lp1152
+S'41169'
+p1153
+aS'59374'
+p1154
+aS'Fibrobacter succinogenes subsp. succinogenes S85'
+p1155
+ag80
+aa(lp1156
+S'58867'
+p1157
+aS'334413'
+p1158
+aS'Finegoldia magna ATCC 29328'
+p1159
+aS'NC_010376,NC_010371'
+p1160
+aa(lp1161
+S'61627'
+p1162
+aS'402612'
+p1163
+aS'Flavobacterium psychrophilum JIP02/86'
+p1164
+aS'NC_009613'
+p1165
+aa(lp1166
+S'58499'
+p1167
+aS'401614'
+p1168
+aS'Francisella novicida U112'
+p1169
+aS'NC_008601'
+p1170
+aa(lp1171
+S'59105'
+p1172
+aS'484022'
+p1173
+aS'Francisella philomiragia subsp. philomiragia ATCC 25017'
+p1174
+aS'NC_010336,NC_010331'
+p1175
+aa(lp1176
+S'58695'
+p1177
+aS'326424'
+p1178
+aS'Frankia alni ACN14a'
+p1179
+aS'NC_008278'
+p1180
+aa(lp1181
+S'58397'
+p1182
+aS'106370'
+p1183
+aS'Frankia sp. CcI3'
+p1184
+aS'NC_007777'
+p1185
+aa(lp1186
+S'58367'
+p1187
+aS'298653'
+p1188
+aS'Frankia sp. EAN1pec'
+p1189
+aS'NC_009921'
+p1190
+aa(lp1191
+S'57885'
+p1192
+aS'190304'
+p1193
+aS'Fusobacterium nucleatum subsp. nucleatum ATCC 25586'
+p1194
+aS'NC_003454'
+p1195
+aa(lp1196
+S'43211'
+p1197
+aS'553190'
+p1198
+aS'Gardnerella vaginalis 409-05'
+p1199
+aS'NC_013721'
+p1200
+aa(lp1201
+S'55487'
+p1202
+aS'525284'
+p1203
+aS'Gardnerella vaginalis ATCC 14019'
+p1204
+aS'NC_014644'
+p1205
+aa(lp1206
+S'58227'
+p1207
+aS'235909'
+p1208
+aS'Geobacillus kaustophilus HTA426'
+p1209
+aS'NC_006510,NC_006509'
+p1210
+aa(lp1211
+S'49467'
+p1212
+aS'691437'
+p1213
+aS'Geobacillus sp. C56-T3'
+p1214
+aS'NC_014206'
+p1215
+aa(lp1216
+S'55779'
+p1217
+aS'581103'
+p1218
+aS'Geobacillus sp. Y4.1MC1'
+p1219
+aS'NC_014650,NC_014651'
+p1220
+aa(lp1221
+S'55381'
+p1222
+aS'550542'
+p1223
+aS'Geobacillus sp. Y412MC52'
+p1224
+aS'NC_014915,NC_014916'
+p1225
+aa(lp1226
+S'41171'
+p1227
+aS'544556'
+p1228
+aS'Geobacillus sp. Y412MC61'
+p1229
+aS'NC_013411,NC_013412'
+p1230
+aa(lp1231
+S'58829'
+p1232
+aS'420246'
+p1233
+aS'Geobacillus thermodenitrificans NG80-2'
+p1234
+aS'NC_009328,NC_009329'
+p1235
+aa(lp1236
+S'58713'
+p1237
+aS'398767'
+p1238
+aS'Geobacter lovleyi SZ'
+p1239
+aS'NC_010814,NC_010815'
+p1240
+aa(lp1241
+S'57731'
+p1242
+aS'269799'
+p1243
+aS'Geobacter metallireducens GS-15'
+p1244
+aS'NC_007517,NC_007515'
+p1245
+aa(lp1246
+S'58543'
+p1247
+aS'316067'
+p1248
+aS'Geobacter sp. FRC-32'
+p1249
+aS'NC_011979'
+p1250
+aa(lp1251
+S'57743'
+p1252
+aS'243231'
+p1253
+aS'Geobacter sulfurreducens PCA'
+p1254
+aS'NC_002939'
+p1255
+aa(lp1256
+S'58475'
+p1257
+aS'351605'
+p1258
+aS'Geobacter uraniireducens Rf4'
+p1259
+aS'NC_009483'
+p1260
+aa(lp1261
+S'59075'
+p1262
+aS'272568'
+p1263
+aS'Gluconacetobacter diazotrophicus PAl 5'
+p1264
+aS'NC_011365,NC_011367'
+p1265
+aa(lp1266
+S'61587'
+p1267
+aS'272568'
+p1268
+aS'Gluconacetobacter diazotrophicus PAl 5'
+p1269
+ag80
+aa(lp1270
+S'58661'
+p1271
+aS'391165'
+p1272
+aS'Granulibacter bethesdensis CGDNIH1'
+p1273
+aS'NC_008343'
+p1274
+aa(lp1275
+S'58483'
+p1276
+aS'349521'
+p1277
+aS'Hahella chejuensis KCTC 2396'
+p1278
+aS'NC_007645'
+p1279
+aa(lp1280
+S'60191'
+p1281
+aS'656519'
+p1282
+aS'Halanaerobium hydrogeniformans'
+p1283
+aS'NC_014654'
+p1284
+aa(lp1285
+S'41425'
+p1286
+aS'502025'
+p1287
+aS'Haliangium ochraceum DSM 14365'
+p1288
+aS'NC_013440'
+p1289
+aa(lp1290
+S'57719'
+p1291
+aS'272569'
+p1292
+aS'Haloarcula marismortui ATCC 43049'
+p1293
+aS'NC_006396,NC_006397,NC_006389,NC_006390,NC_006391,NC_006392,NC_006393,NC_006394,NC_006395'
+p1294
+aa(lp1295
+S'46845'
+p1296
+aS'309800'
+p1297
+aS'Haloferax volcanii DS2'
+p1298
+aS'NC_013965,NC_013966,NC_013968,NC_013964,NC_013967'
+p1299
+aa(lp1300
+S'54919'
+p1301
+aS'469382'
+p1302
+aS'Halogeometricum borinquense DSM 11551'
+p1303
+aS'NC_014729,NC_014731,NC_014735,NC_014732,NC_014736,NC_014737'
+p1304
+aa(lp1305
+S'59107'
+p1306
+aS'485914'
+p1307
+aS'Halomicrobium mukohataei DSM 12286'
+p1308
+aS'NC_013202,NC_013201'
+p1309
+aa(lp1310
+S'52781'
+p1311
+aS'768066'
+p1312
+aS'Halomonas elongata DSM 2581'
+p1313
+aS'NC_014532'
+p1314
+aa(lp1315
+S'58673'
+p1316
+aS'362976'
+p1317
+aS'Haloquadratum walsbyi DSM 16790'
+p1318
+aS'NC_008212,NC_008213'
+p1319
+aa(lp1320
+S'59189'
+p1321
+aS'519442'
+p1322
+aS'Halorhabdus utahensis DSM 12940'
+p1323
+aS'NC_013158'
+p1324
+aa(lp1325
+S'58473'
+p1326
+aS'349124'
+p1327
+aS'Halorhodospira halophila SL1'
+p1328
+aS'NC_008789'
+p1329
+aa(lp1330
+S'58807'
+p1331
+aS'416348'
+p1332
+aS'Halorubrum lacusprofundi ATCC 49239'
+p1333
+aS'NC_012029,NC_012028,NC_012030'
+p1334
+aa(lp1335
+S'58585'
+p1336
+aS'373903'
+p1337
+aS'Halothermothrix orenii H 168'
+p1338
+aS'NC_011899'
+p1339
+aa(lp1340
+S'41317'
+p1341
+aS'555778'
+p1342
+aS'Halothiobacillus neapolitanus c2'
+p1343
+aS'NC_013422'
+p1344
+aa(lp1345
+S'46647'
+p1346
+aS'679897'
+p1347
+aS'Helicobacter mustelae 12198'
+p1348
+aS'NC_013949'
+p1349
+aa(lp1350
+S'58279'
+p1351
+aS'498761'
+p1352
+aS'Heliobacterium modesticaldum Ice1'
+p1353
+aS'NC_010337'
+p1354
+aa(lp1355
+S'58599'
+p1356
+aS'316274'
+p1357
+aS'Herpetosiphon aurantiacus DSM 785'
+p1358
+aS'NC_009972,NC_009974,NC_009973'
+p1359
+aa(lp1360
+S'58857'
+p1361
+aS'380749'
+p1362
+aS'Hydrogenobaculum sp. Y04AAS1'
+p1363
+aS'NC_011126'
+p1364
+aa(lp1365
+S'57755'
+p1366
+aS'415426'
+p1367
+aS'Hyperthermus butylicus DSM 5456'
+p1368
+aS'NC_008818'
+p1369
+aa(lp1370
+S'58365'
+p1371
+aS'453591'
+p1372
+aS'Ignicoccus hospitalis KIN4/I'
+p1373
+aS'NC_009776'
+p1374
+aa(lp1375
+S'51875'
+p1376
+aS'583356'
+p1377
+aS'Ignisphaera aggregans DSM 17230'
+p1378
+aS'NC_014471'
+p1379
+aa(lp1380
+S'59769'
+p1381
+aS'572544'
+p1382
+aS'Ilyobacter polytropus DSM 2926'
+p1383
+aS'NC_014632,NC_014633,NC_014634'
+p1384
+aa(lp1385
+S'62207'
+p1386
+aS'575540'
+p1387
+aS'Isosphaera pallida ATCC 43644'
+p1388
+aS'NC_014957,NC_014962'
+p1389
+aa(lp1390
+S'59581'
+p1391
+aS'880591'
+p1392
+aS'Ketogulonicigenium vulgare Y25'
+p1393
+aS'NC_014621,NC_014625,NC_014626'
+p1394
+aa(lp1395
+S'59145'
+p1396
+aS'507522'
+p1397
+aS'Klebsiella pneumoniae 342'
+p1398
+aS'NC_011283,NC_011281,NC_011282'
+p1399
+aa(lp1400
+S'59073'
+p1401
+aS'484021'
+p1402
+aS'Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044'
+p1403
+aS'NC_012731,NC_006625'
+p1404
+aa(lp1405
+S'42113'
+p1406
+aS'640131'
+p1407
+aS'Klebsiella variicola At-22'
+p1408
+aS'NC_013850'
+p1409
+aa(lp1410
+S'57685'
+p1411
+aS'272621'
+p1412
+aS'Lactobacillus acidophilus NCFM'
+p1413
+aS'NC_006814'
+p1414
+aa(lp1415
+S'57989'
+p1416
+aS'387344'
+p1417
+aS'Lactobacillus brevis ATCC 367'
+p1418
+aS'NC_008497,NC_008498,NC_008499'
+p1419
+aa(lp1420
+S'57985'
+p1421
+aS'321967'
+p1422
+aS'Lactobacillus casei ATCC 334'
+p1423
+aS'NC_008526,NC_008502'
+p1424
+aa(lp1425
+S'59237'
+p1426
+aS'543734'
+p1427
+aS'Lactobacillus casei BL23'
+p1428
+aS'NC_010999'
+p1429
+aa(lp1430
+S'50673'
+p1431
+aS'498216'
+p1432
+aS'Lactobacillus casei str. Zhang'
+p1433
+aS'NC_011352,NC_014334'
+p1434
+aa(lp1435
+S'48359'
+p1436
+aS'748671'
+p1437
+aS'Lactobacillus crispatus ST1'
+p1438
+aS'NC_014106'
+p1439
+aa(lp1440
+g80
+aS'390333'
+p1441
+aS'Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842'
+p1442
+aS'NC_008054'
+p1443
+aa(lp1444
+S'58647'
+p1445
+aS'390333'
+p1446
+aS'Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842'
+p1447
+ag80
+aa(lp1448
+S'57987'
+p1449
+aS'321956'
+p1450
+aS'Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365'
+p1451
+aS'NC_008529'
+p1452
+aa(lp1453
+S'60621'
+p1454
+aS'767455'
+p1455
+aS'Lactobacillus delbrueckii subsp. bulgaricus ND02'
+p1456
+aS'NC_014727,NC_014728'
+p1457
+aa(lp1458
+S'58865'
+p1459
+aS'334390'
+p1460
+aS'Lactobacillus fermentum IFO 3956'
+p1461
+aS'NC_010610'
+p1462
+aa(lp1463
+S'58761'
+p1464
+aS'405566'
+p1465
+aS'Lactobacillus helveticus DPC 4571'
+p1466
+aS'NC_010080'
+p1467
+aa(lp1468
+S'58233'
+p1469
+aS'362948'
+p1470
+aS'Lactobacillus salivarius UCC118'
+p1471
+aS'NC_007929,NC_006530,NC_007930,NC_006529'
+p1472
+aa(lp1473
+S'60161'
+p1474
+aS'649349'
+p1475
+aS'Leadbetterella byssophila DSM 17132'
+p1476
+aS'NC_014655'
+p1477
+aa(lp1478
+S'48801'
+p1479
+aS'423212'
+p1480
+aS'Legionella pneumophila 2300/99 Alcoy'
+p1481
+aS'NC_014125'
+p1482
+aa(lp1483
+S'58209'
+p1484
+aS'297245'
+p1485
+aS'Legionella pneumophila str. Lens'
+p1486
+aS'NC_006369,NC_006366'
+p1487
+aa(lp1488
+S'58211'
+p1489
+aS'297246'
+p1490
+aS'Legionella pneumophila str. Paris'
+p1491
+aS'NC_006368,NC_006365'
+p1492
+aa(lp1493
+S'58065'
+p1494
+aS'267671'
+p1495
+aS'Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130'
+p1496
+aS'NC_005823,NC_005824'
+p1497
+aa(lp1498
+S'58971'
+p1499
+aS'395495'
+p1500
+aS'Leptothrix cholodnii SP-6'
+p1501
+aS'NC_010524'
+p1502
+aa(lp1503
+S'59211'
+p1504
+aS'523794'
+p1505
+aS'Leptotrichia buccalis C-1013-b'
+p1506
+aS'NC_013192'
+p1507
+aa(lp1508
+S'61567'
+p1509
+aS'272626'
+p1510
+aS'Listeria innocua Clip11262'
+p1511
+aS'NC_003212,NC_003383'
+p1512
+aa(lp1513
+S'43671'
+p1514
+aS'1639'
+p1515
+aS'Listeria monocytogenes'
+p1516
+aS'NC_013766,NC_013767'
+p1517
+aa(lp1518
+S'43727'
+p1519
+aS'637381'
+p1520
+aS'Listeria monocytogenes 08-5923'
+p1521
+aS'NC_013768'
+p1522
+aa(lp1523
+S'61583'
+p1524
+aS'169963'
+p1525
+aS'Listeria monocytogenes EGD-e'
+p1526
+aS'NC_003210'
+p1527
+aa(lp1528
+S'59203'
+p1529
+aS'552536'
+p1530
+aS'Listeria monocytogenes HCC23'
+p1531
+aS'NC_011660'
+p1532
+aa(lp1533
+S'46215'
+p1534
+aS'683837'
+p1535
+aS'Listeria seeligeri serovar 1/2b str. SLCC3954'
+p1536
+aS'NC_013891'
+p1537
+aa(lp1538
+S'58945'
+p1539
+aS'444177'
+p1540
+aS'Lysinibacillus sphaericus C3-41'
+p1541
+aS'NC_010382,NC_010381'
+p1542
+aa(lp1543
+S'57833'
+p1544
+aS'156889'
+p1545
+aS'Magnetococcus sp. MC-1'
+p1546
+aS'NC_008576'
+p1547
+aa(lp1548
+S'58197'
+p1549
+aS'221988'
+p1550
+aS'Mannheimia succiniciproducens MBEL55E'
+p1551
+aS'NC_006300'
+p1552
+aa(lp1553
+S'58715'
+p1554
+aS'400668'
+p1555
+aS'Marinomonas sp. MWYL1'
+p1556
+aS'NC_009654'
+p1557
+aa(lp1558
+S'46661'
+p1559
+aS'504728'
+p1560
+aS'Meiothermus ruber DSM 1279'
+p1561
+aS'NC_013946'
+p1562
+aa(lp1563
+S'49485'
+p1564
+aS'526227'
+p1565
+aS'Meiothermus silvanus DSM 9946'
+p1566
+aS'NC_014212,NC_014213,NC_014214'
+p1567
+aa(lp1568
+S'58717'
+p1569
+aS'399549'
+p1570
+aS'Metallosphaera sedula DSM 5348'
+p1571
+aS'NC_009440'
+p1572
+aa(lp1573
+S'63623'
+p1574
+aS'868132'
+p1575
+aS'Methanobacterium sp. AL-21'
+p1576
+aS'NC_015216'
+p1577
+aa(lp1578
+S'45857'
+p1579
+aS'634498'
+p1580
+aS'Methanobrevibacter ruminantium M1'
+p1581
+aS'NC_013790'
+p1582
+aa(lp1583
+S'58827'
+p1584
+aS'420247'
+p1585
+aS'Methanobrevibacter smithii ATCC 35061'
+p1586
+aS'NC_009515'
+p1587
+aa(lp1588
+S'59347'
+p1589
+aS'573064'
+p1590
+aS'Methanocaldococcus fervens AG86'
+p1591
+aS'NC_013156,NC_013157'
+p1592
+aa(lp1593
+S'48803'
+p1594
+aS'573063'
+p1595
+aS'Methanocaldococcus infernus ME'
+p1596
+aS'NC_014122'
+p1597
+aa(lp1598
+S'57713'
+p1599
+aS'243232'
+p1600
+aS'Methanocaldococcus jannaschii DSM 2661'
+p1601
+aS'NC_000909,NC_001732,NC_001733'
+p1602
+aa(lp1603
+S'42499'
+p1604
+aS'644281'
+p1605
+aS'Methanocaldococcus sp. FS406-22'
+p1606
+aS'NC_013887,NC_013888'
+p1607
+aa(lp1608
+S'41131'
+p1609
+aS'579137'
+p1610
+aS'Methanocaldococcus vulcanius M7'
+p1611
+aS'NC_013407,NC_013409,NC_013408'
+p1612
+aa(lp1613
+S'58023'
+p1614
+aS'259564'
+p1615
+aS'Methanococcoides burtonii DSM 6242'
+p1616
+aS'NC_007955'
+p1617
+aa(lp1618
+S'58823'
+p1619
+aS'419665'
+p1620
+aS'Methanococcus aeolicus Nankai-3'
+p1621
+aS'NC_009635'
+p1622
+aa(lp1623
+S'58741'
+p1624
+aS'402880'
+p1625
+aS'Methanococcus maripaludis C5'
+p1626
+aS'NC_009135,NC_009136'
+p1627
+aa(lp1628
+S'58767'
+p1629
+aS'406327'
+p1630
+aS'Methanococcus vannielii SB'
+p1631
+aS'NC_009634'
+p1632
+aa(lp1633
+S'49529'
+p1634
+aS'456320'
+p1635
+aS'Methanococcus voltae A3'
+p1636
+aS'NC_014222'
+p1637
+aa(lp1638
+S'58785'
+p1639
+aS'410358'
+p1640
+aS'Methanocorpusculum labreanum Z'
+p1641
+aS'NC_008942'
+p1642
+aa(lp1643
+S'58561'
+p1644
+aS'368407'
+p1645
+aS'Methanoculleus marisnigri JR1'
+p1646
+aS'NC_009051'
+p1647
+aa(lp1648
+S'57883'
+p1649
+aS'190192'
+p1650
+aS'Methanopyrus kandleri AV19'
+p1651
+aS'NC_003551'
+p1652
+aa(lp1653
+S'58469'
+p1654
+aS'349307'
+p1655
+aS'Methanosaeta thermophila PT'
+p1656
+aS'NC_008553'
+p1657
+aa(lp1658
+S'57879'
+p1659
+aS'188937'
+p1660
+aS'Methanosarcina acetivorans C2A'
+p1661
+aS'NC_003552'
+p1662
+aa(lp1663
+S'57715'
+p1664
+aS'269797'
+p1665
+aS'Methanosarcina barkeri str. Fusaro'
+p1666
+aS'NC_007349,NC_007355'
+p1667
+aa(lp1668
+S'57893'
+p1669
+aS'192952'
+p1670
+aS'Methanosarcina mazei Go1'
+p1671
+aS'NC_003901'
+p1672
+aa(lp1673
+S'58407'
+p1674
+aS'339860'
+p1675
+aS'Methanosphaera stadtmanae DSM 3091'
+p1676
+aS'NC_007681'
+p1677
+aa(lp1678
+S'59193'
+p1679
+aS'521011'
+p1680
+aS'Methanosphaerula palustris E1-9c'
+p1681
+aS'NC_011832'
+p1682
+aa(lp1683
+S'58181'
+p1684
+aS'323259'
+p1685
+aS'Methanospirillum hungatei JF-1'
+p1686
+aS'NC_007796'
+p1687
+aa(lp1688
+S'51637'
+p1689
+aS'79929'
+p1690
+aS'Methanothermobacter marburgensis str. Marburg'
+p1691
+aS'NC_014408,NC_014409'
+p1692
+aa(lp1693
+S'57877'
+p1694
+aS'187420'
+p1695
+aS'Methanothermobacter thermautotrophicus str. Delta H'
+p1696
+aS'NC_000916'
+p1697
+aa(lp1698
+S'59161'
+p1699
+aS'481448'
+p1700
+aS'Methylacidiphilum infernorum V4'
+p1701
+aS'NC_010794'
+p1702
+aa(lp1703
+S'58049'
+p1704
+aS'265072'
+p1705
+aS'Methylobacillus flagellatus KT'
+p1706
+aS'NC_007947'
+p1707
+aa(lp1708
+S'59023'
+p1709
+aS'460265'
+p1710
+aS'Methylobacterium nodulans ORS 2060'
+p1711
+aS'NC_011894,NC_011887,NC_011893,NC_011895,NC_011888,NC_011889,NC_011890,NC_011892'
+p1712
+aa(lp1713
+S'58843'
+p1714
+aS'426117'
+p1715
+aS'Methylobacterium sp. 4-46'
+p1716
+aS'NC_010511,NC_010374,NC_010373'
+p1717
+aa(lp1718
+S'57607'
+p1719
+aS'243233'
+p1720
+aS'Methylococcus capsulatus str. Bath'
+p1721
+aS'NC_002977'
+p1722
+aa(lp1723
+S'59101'
+p1724
+aS'449447'
+p1725
+aS'Microcystis aeruginosa NIES-843'
+p1726
+aS'NC_010296'
+p1727
+aa(lp1728
+S'49695'
+p1729
+aS'548479'
+p1730
+aS'Mobiluncus curtisii ATCC 43063'
+p1731
+aS'NC_014246'
+p1732
+aa(lp1733
+S'58051'
+p1734
+aS'264732'
+p1735
+aS'Moorella thermoacetica ATCC 39073'
+p1736
+aS'NC_007644'
+p1737
+aa(lp1738
+g80
+aS'749219'
+p1739
+aS'Moraxella catarrhalis RH4'
+p1740
+aS'NC_014147'
+p1741
+aa(lp1742
+S'48809'
+p1743
+aS'749219'
+p1744
+aS'Moraxella catarrhalis RH4'
+p1745
+ag80
+aa(lp1746
+S'57693'
+p1747
+aS'243243'
+p1748
+aS'Mycobacterium avium 104'
+p1749
+aS'NC_008595'
+p1750
+aa(lp1751
+S'57695'
+p1752
+aS'233413'
+p1753
+aS'Mycobacterium bovis AF2122/97'
+p1754
+aS'NC_002945'
+p1755
+aa(lp1756
+S'58781'
+p1757
+aS'410289'
+p1758
+aS'Mycobacterium bovis BCG str. Pasteur 1173P2'
+p1759
+aS'NC_008769'
+p1760
+aa(lp1761
+S'59281'
+p1762
+aS'561275'
+p1763
+aS'Mycobacterium bovis BCG str. Tokyo 172'
+p1764
+aS'NC_012207'
+p1765
+aa(lp1766
+S'57775'
+p1767
+aS'83331'
+p1768
+aS'Mycobacterium tuberculosis CDC1551'
+p1769
+aS'NC_002755'
+p1770
+aa(lp1771
+S'58417'
+p1772
+aS'336982'
+p1773
+aS'Mycobacterium tuberculosis F11'
+p1774
+aS'NC_009565'
+p1775
+aa(lp1776
+S'58853'
+p1777
+aS'419947'
+p1778
+aS'Mycobacterium tuberculosis H37Ra'
+p1779
+aS'NC_009525'
+p1780
+aa(lp1781
+S'54595'
+p1782
+aS'419947'
+p1783
+aS'Mycobacterium tuberculosis H37Ra'
+p1784
+ag80
+aa(lp1785
+g80
+aS'83332'
+p1786
+aS'Mycobacterium tuberculosis H37Rv'
+p1787
+aS'NC_000962'
+p1788
+aa(lp1789
+g80
+aS'83332'
+p1790
+aS'Mycobacterium tuberculosis H37Rv'
+p1791
+ag80
+aa(lp1792
+S'57777'
+p1793
+aS'83332'
+p1794
+aS'Mycobacterium tuberculosis H37Rv'
+p1795
+ag80
+aa(lp1796
+S'59069'
+p1797
+aS'478434'
+p1798
+aS'Mycobacterium tuberculosis KZN 1435'
+p1799
+aS'NC_012943'
+p1800
+aa(lp1801
+S'58005'
+p1802
+aS'243272'
+p1803
+aS'Mycoplasma arthritidis 158L3-1'
+p1804
+aS'NC_011025'
+p1805
+aa(lp1806
+S'57993'
+p1807
+aS'710127'
+p1808
+aS'Mycoplasma gallisepticum str. R(low)'
+p1809
+aS'NC_004829'
+p1810
+aa(lp1811
+S'58077'
+p1812
+aS'267748'
+p1813
+aS'Mycoplasma mobile 163K'
+p1814
+aS'NC_006908'
+p1815
+aa(lp1816
+S'58061'
+p1817
+aS'262723'
+p1818
+aS'Mycoplasma synoviae 53'
+p1819
+aS'NC_007294'
+p1820
+aa(lp1821
+S'58003'
+p1822
+aS'246197'
+p1823
+aS'Myxococcus xanthus DK 1622'
+p1824
+aS'NC_008095'
+p1825
+aa(lp1826
+S'59221'
+p1827
+aS'479431'
+p1828
+aS'Nakamurella multipartita DSM 44233'
+p1829
+aS'NC_013235'
+p1830
+aa(lp1831
+S'58009'
+p1832
+aS'228908'
+p1833
+aS'Nanoarchaeum equitans Kin4-M'
+p1834
+aS'NC_005213'
+p1835
+aa(lp1836
+S'46245'
+p1837
+aS'547559'
+p1838
+aS'Natrialba magadii ATCC 43099'
+p1839
+aS'NC_013922,NC_013925,NC_013924,NC_013923'
+p1840
+aa(lp1841
+S'58435'
+p1842
+aS'348780'
+p1843
+aS'Natronomonas pharaonis DSM 2160'
+p1844
+aS'NC_007426,NC_007428,NC_007427'
+p1845
+aa(lp1846
+S'57611'
+p1847
+aS'242231'
+p1848
+aS'Neisseria gonorrhoeae FA 1090'
+p1849
+aS'NC_002946'
+p1850
+aa(lp1851
+S'59191'
+p1852
+aS'521006'
+p1853
+aS'Neisseria gonorrhoeae NCCP11945'
+p1854
+aS'NC_011035,NC_011034'
+p1855
+aa(lp1856
+S'60851'
+p1857
+aS'489653'
+p1858
+aS'Neisseria lactamica 020-06'
+p1859
+aS'NC_014752'
+p1860
+aa(lp1861
+S'58587'
+p1862
+aS'374833'
+p1863
+aS'Neisseria meningitidis 053442'
+p1864
+aS'NC_010120'
+p1865
+aa(lp1866
+S'57825'
+p1867
+aS'272831'
+p1868
+aS'Neisseria meningitidis FAM18'
+p1869
+aS'NC_008767'
+p1870
+aa(lp1871
+S'57817'
+p1872
+aS'122586'
+p1873
+aS'Neisseria meningitidis MC58'
+p1874
+aS'NC_003112'
+p1875
+aa(lp1876
+S'57819'
+p1877
+aS'122587'
+p1878
+aS'Neisseria meningitidis Z2491'
+p1879
+aS'NC_003116'
+p1880
+aa(lp1881
+S'61649'
+p1882
+aS'662598'
+p1883
+aS'Neisseria meningitidis alpha14'
+p1884
+aS'NC_013016'
+p1885
+aa(lp1886
+S'62183'
+p1887
+aS'749222'
+p1888
+aS'Nitratifractor salsuginis DSM 16511'
+p1889
+aS'NC_014935'
+p1890
+aa(lp1891
+S'58295'
+p1892
+aS'323098'
+p1893
+aS'Nitrobacter winogradskyi Nb-255'
+p1894
+aS'NC_007406'
+p1895
+aa(lp1896
+S'46803'
+p1897
+aS'472759'
+p1898
+aS'Nitrosococcus halophilus Nc4'
+p1899
+aS'NC_013958,NC_013960'
+p1900
+aa(lp1901
+S'58403'
+p1902
+aS'323261'
+p1903
+aS'Nitrosococcus oceani ATCC 19707'
+p1904
+aS'NC_007484,NC_007483'
+p1905
+aa(lp1906
+S'50331'
+p1907
+aS'105559'
+p1908
+aS'Nitrosococcus watsonii C-113'
+p1909
+aS'NC_014315,NC_014317,NC_014316'
+p1910
+aa(lp1911
+S'57647'
+p1912
+aS'228410'
+p1913
+aS'Nitrosomonas europaea ATCC 19718'
+p1914
+aS'NC_004757'
+p1915
+aa(lp1916
+S'58363'
+p1917
+aS'335283'
+p1918
+aS'Nitrosomonas eutropha C91'
+p1919
+aS'NC_008344,NC_008342,NC_008341'
+p1920
+aa(lp1921
+S'55727'
+p1922
+aS'153948'
+p1923
+aS'Nitrosomonas sp. AL212'
+p1924
+aS'NC_015221,NC_015222,NC_015223'
+p1925
+aa(lp1926
+S'58903'
+p1927
+aS'436308'
+p1928
+aS'Nitrosopumilus maritimus SCM1'
+p1929
+aS'NC_010085'
+p1930
+aa(lp1931
+S'58203'
+p1932
+aS'247156'
+p1933
+aS'Nocardia farcinica IFM 10152'
+p1934
+aS'NC_006361,NC_006362,NC_006363'
+p1935
+aa(lp1936
+S'49483'
+p1937
+aS'446468'
+p1938
+aS'Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111'
+p1939
+aS'NC_014210,NC_014211'
+p1940
+aa(lp1941
+S'57767'
+p1942
+aS'63737'
+p1943
+aS'Nostoc punctiforme PCC 73102'
+p1944
+aS'NC_010628,NC_010632,NC_010630,NC_010633,NC_010629,NC_010631'
+p1945
+aa(lp1946
+S'57803'
+p1947
+aS'103690'
+p1948
+aS'Nostoc sp. PCC 7120'
+p1949
+aS'NC_003272,NC_003276,NC_003240,NC_003267,NC_003273,NC_003270,NC_003241'
+p1950
+aa(lp1951
+S'60855'
+p1952
+aS'670487'
+p1953
+aS'Oceanithermus profundus DSM 14977'
+p1954
+aS'NC_014753,NC_014761'
+p1955
+aa(lp1956
+S'63397'
+p1957
+aS'709991'
+p1958
+aS'Odoribacter splanchnicus DSM 20712'
+p1959
+aS'NC_015160'
+p1960
+aa(lp1961
+S'51367'
+p1962
+aS'633147'
+p1963
+aS'Olsenella uli DSM 7084'
+p1964
+aS'NC_014363'
+p1965
+aa(lp1966
+S'53477'
+p1967
+aS'349520'
+p1968
+aS'Paenibacillus polymyxa E681'
+p1969
+aS'NC_014483'
+p1970
+aa(lp1971
+S'60725'
+p1972
+aS'694427'
+p1973
+aS'Paludibacter propionicigenes WB4'
+p1974
+aS'NC_014734'
+p1975
+aa(lp1976
+S'58301'
+p1977
+aS'435591'
+p1978
+aS'Parabacteroides distasonis ATCC 8503'
+p1979
+aS'NC_009615'
+p1980
+aa(lp1981
+S'58187'
+p1982
+aS'318586'
+p1983
+aS'Paracoccus denitrificans PD1222'
+p1984
+aS'NC_008686,NC_008688,NC_008687'
+p1985
+aa(lp1986
+S'58739'
+p1987
+aS'402881'
+p1988
+aS'Parvibaculum lavamentivorans DS-1'
+p1989
+aS'NC_009719'
+p1990
+aa(lp1991
+S'51641'
+p1992
+aS'314260'
+p1993
+aS'Parvularcula bermudensis HTCC2503'
+p1994
+aS'NC_014414'
+p1995
+aa(lp1996
+S'57627'
+p1997
+aS'272843'
+p1998
+aS'Pasteurella multocida subsp. multocida str. Pm70'
+p1999
+aS'NC_002663'
+p2000
+aa(lp2001
+S'57957'
+p2002
+aS'218491'
+p2003
+aS'Pectobacterium atrosepticum SCRI1043'
+p2004
+aS'NC_004547'
+p2005
+aa(lp2006
+S'59295'
+p2007
+aS'561230'
+p2008
+aS'Pectobacterium carotovorum subsp. carotovorum PC1'
+p2009
+aS'NC_012917'
+p2010
+aa(lp2011
+S'41297'
+p2012
+aS'561231'
+p2013
+aS'Pectobacterium wasabiae WPP163'
+p2014
+aS'NC_013421'
+p2015
+aa(lp2016
+S'58241'
+p2017
+aS'338963'
+p2018
+aS'Pelobacter carbinolicus DSM 2380'
+p2019
+aS'NC_007498'
+p2020
+aa(lp2021
+S'58255'
+p2022
+aS'338966'
+p2023
+aS'Pelobacter propionicus DSM 2379'
+p2024
+aS'NC_008609,NC_008607,NC_008608'
+p2025
+aa(lp2026
+S'58173'
+p2027
+aS'324925'
+p2028
+aS'Pelodictyon phaeoclathratiforme BU-1'
+p2029
+aS'NC_011060'
+p2030
+aa(lp2031
+S'58877'
+p2032
+aS'370438'
+p2033
+aS'Pelotomaculum thermopropionicum SI'
+p2034
+aS'NC_009454'
+p2035
+aa(lp2036
+S'58119'
+p2037
+aS'123214'
+p2038
+aS'Persephonella marina EX-H1'
+p2039
+aS'NC_012440,NC_012439'
+p2040
+aa(lp2041
+S'58747'
+p2042
+aS'403833'
+p2043
+aS'Petrotoga mobilis SJ95'
+p2044
+aS'NC_010003'
+p2045
+aa(lp2046
+S'62923'
+p2047
+aS'298386'
+p2048
+aS'Photobacterium profundum SS9'
+p2049
+aS'NC_006370,NC_006371,NC_005871'
+p2050
+aa(lp2051
+S'59243'
+p2052
+aS'291112'
+p2053
+aS'Photorhabdus asymbiotica'
+p2054
+aS'NC_012962,NC_012961'
+p2055
+aa(lp2056
+S'61593'
+p2057
+aS'243265'
+p2058
+aS'Photorhabdus luminescens subsp. laumondii TTO1'
+p2059
+aS'NC_005126'
+p2060
+aa(lp2061
+S'58041'
+p2062
+aS'263820'
+p2063
+aS'Picrophilus torridus DSM 9790'
+p2064
+aS'NC_005877'
+p2065
+aa(lp2066
+S'43209'
+p2067
+aS'530564'
+p2068
+aS'Pirellula staleyi DSM 6068'
+p2069
+aS'NC_013720'
+p2070
+aa(lp2071
+S'60583'
+p2072
+aS'756272'
+p2073
+aS'Planctomyces brasiliensis DSM 5305'
+p2074
+aS'NC_015174'
+p2075
+aa(lp2076
+S'48643'
+p2077
+aS'521674'
+p2078
+aS'Planctomyces limnophilus DSM 3776'
+p2079
+aS'NC_014148,NC_014149'
+p2080
+aa(lp2081
+S'58879'
+p2082
+aS'431947'
+p2083
+aS'Porphyromonas gingivalis ATCC 33277'
+p2084
+aS'NC_010729'
+p2085
+aa(lp2086
+g80
+aS'242619'
+p2087
+aS'Porphyromonas gingivalis W83'
+p2088
+aS'NC_002950'
+p2089
+aa(lp2090
+S'57641'
+p2091
+aS'242619'
+p2092
+aS'Porphyromonas gingivalis W83'
+p2093
+ag80
+aa(lp2094
+S'47507'
+p2095
+aS'264731'
+p2096
+aS'Prevotella ruminicola 23'
+p2097
+aS'NC_014033'
+p2098
+aa(lp2099
+S'49535'
+p2100
+aS'754252'
+p2101
+aS'Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1'
+p2102
+aS'NC_014215'
+p2103
+aa(lp2104
+S'58151'
+p2105
+aS'290512'
+p2106
+aS'Prosthecochloris aestuarii DSM 271'
+p2107
+aS'NC_011059,NC_011061'
+p2108
+aa(lp2109
+S'59275'
+p2110
+aS'557722'
+p2111
+aS'Pseudomonas aeruginosa LESB58'
+p2112
+aS'NC_011770'
+p2113
+aa(lp2114
+S'58627'
+p2115
+aS'381754'
+p2116
+aS'Pseudomonas aeruginosa PA7'
+p2117
+aS'NC_009656'
+p2118
+aa(lp2119
+S'57977'
+p2120
+aS'208963'
+p2121
+aS'Pseudomonas aeruginosa UCBPP-PA14'
+p2122
+aS'NC_008463'
+p2123
+aa(lp2124
+S'58723'
+p2125
+aS'399739'
+p2126
+aS'Pseudomonas mendocina ymp'
+p2127
+aS'NC_009439'
+p2128
+aa(lp2129
+S'58641'
+p2130
+aS'379731'
+p2131
+aS'Pseudomonas stutzeri A1501'
+p2132
+aS'NC_009434'
+p2133
+aa(lp2134
+S'58459'
+p2135
+aS'349106'
+p2136
+aS'Psychrobacter sp. PRwf-1'
+p2137
+aS'NC_009524,NC_009517,NC_009516'
+p2138
+aa(lp2139
+S'58521'
+p2140
+aS'357804'
+p2141
+aS'Psychromonas ingrahamii 37'
+p2142
+aS'NC_008709'
+p2143
+aa(lp2144
+S'57727'
+p2145
+aS'178306'
+p2146
+aS'Pyrobaculum aerophilum str. IM2'
+p2147
+aS'NC_003364'
+p2148
+aa(lp2149
+S'58409'
+p2150
+aS'340102'
+p2151
+aS'Pyrobaculum arsenaticum DSM 13514'
+p2152
+aS'NC_009376'
+p2153
+aa(lp2154
+S'58787'
+p2155
+aS'410359'
+p2156
+aS'Pyrobaculum calidifontis JCM 11548'
+p2157
+aS'NC_009073'
+p2158
+aa(lp2159
+S'58635'
+p2160
+aS'384616'
+p2161
+aS'Pyrobaculum islandicum DSM 4184'
+p2162
+aS'NC_008701'
+p2163
+aa(lp2164
+S'62903'
+p2165
+aS'272844'
+p2166
+aS'Pyrococcus abyssi GE5'
+p2167
+aS'NC_000868,NC_001773'
+p2168
+aa(lp2169
+S'57873'
+p2170
+aS'186497'
+p2171
+aS'Pyrococcus furiosus DSM 3638'
+p2172
+aS'NC_003413'
+p2173
+aa(lp2174
+S'57753'
+p2175
+aS'70601'
+p2176
+aS'Pyrococcus horikoshii OT3'
+p2177
+aS'NC_000961'
+p2178
+aa(lp2179
+S'62715'
+p2180
+aS'741091'
+p2181
+aS'Rahnella sp. Y9602'
+p2182
+aS'NC_015061,NC_015062,NC_015063'
+p2183
+aa(lp2184
+S'47509'
+p2185
+aS'272942'
+p2186
+aS'Rhodobacter capsulatus SB 1003'
+p2187
+aS'NC_014034,NC_014035'
+p2188
+aa(lp2189
+S'59277'
+p2190
+aS'557760'
+p2191
+aS'Rhodobacter sphaeroides KD131'
+p2192
+aS'NC_011963,NC_011958,NC_011962,NC_011960'
+p2193
+aa(lp2194
+S'58353'
+p2195
+aS'338969'
+p2196
+aS'Rhodoferax ferrireducens T118'
+p2197
+aS'NC_007908,NC_007901'
+p2198
+aa(lp2199
+S'43247'
+p2200
+aS'648757'
+p2201
+aS'Rhodomicrobium vannielii ATCC 17100'
+p2202
+aS'NC_014664'
+p2203
+aa(lp2204
+S'58443'
+p2205
+aS'316056'
+p2206
+aS'Rhodopseudomonas palustris BisB18'
+p2207
+aS'NC_007925'
+p2208
+aa(lp2209
+S'58441'
+p2210
+aS'316057'
+p2211
+aS'Rhodopseudomonas palustris BisB5'
+p2212
+aS'NC_007958'
+p2213
+aa(lp2214
+S'43327'
+p2215
+aS'652103'
+p2216
+aS'Rhodopseudomonas palustris DX-1'
+p2217
+aS'NC_014834'
+p2218
+aa(lp2219
+S'58805'
+p2220
+aS'414684'
+p2221
+aS'Rhodospirillum centenum SW'
+p2222
+aS'NC_011420'
+p2223
+aa(lp2224
+S'57655'
+p2225
+aS'269796'
+p2226
+aS'Rhodospirillum rubrum ATCC 11170'
+p2227
+aS'NC_007643,NC_007641'
+p2228
+aa(lp2229
+S'41729'
+p2230
+aS'518766'
+p2231
+aS'Rhodothermus marinus DSM 4252'
+p2232
+aS'NC_013501,NC_013502'
+p2233
+aa(lp2234
+g80
+aS'693978'
+p2235
+aS'Riemerella anatipestifer DSM 15868'
+p2236
+aS'NC_014738'
+p2237
+aa(lp2238
+S'60727'
+p2239
+aS'693978'
+p2240
+aS'Riemerella anatipestifer DSM 15868'
+p2241
+ag80
+aa(lp2242
+S'58287'
+p2243
+aS'383372'
+p2244
+aS'Roseiflexus castenholzii DSM 13941'
+p2245
+aS'NC_009767'
+p2246
+aa(lp2247
+S'58523'
+p2248
+aS'357808'
+p2249
+aS'Roseiflexus sp. RS-1'
+p2250
+aS'NC_009523'
+p2251
+aa(lp2252
+S'49331'
+p2253
+aS'762948'
+p2254
+aS'Rothia dentocariosa ATCC 17931'
+p2255
+aS'NC_014643'
+p2256
+aa(lp2257
+S'43093'
+p2258
+aS'43675'
+p2259
+aS'Rothia mucilaginosa'
+p2260
+aS'NC_013715'
+p2261
+aa(lp2262
+S'58057'
+p2263
+aS'266117'
+p2264
+aS'Rubrobacter xylanophilus DSM 9941'
+p2265
+aS'NC_008148'
+p2266
+aa(lp2267
+S'51721'
+p2268
+aS'697329'
+p2269
+aS'Ruminococcus albus 7'
+p2270
+aS'NC_014826,NC_014833,NC_014827,NC_014824,NC_014825'
+p2271
+aa(lp2272
+S'59055'
+p2273
+aS'471857'
+p2274
+aS'Saccharomonospora viridis DSM 43017'
+p2275
+aS'NC_013159'
+p2276
+aa(lp2277
+S'62947'
+p2278
+aS'405948'
+p2279
+aS'Saccharopolyspora erythraea NRRL 2338'
+p2280
+aS'NC_009142'
+p2281
+aa(lp2282
+S'54491'
+p2283
+aS'405948'
+p2284
+aS'Saccharopolyspora erythraea NRRL 2338'
+p2285
+ag80
+aa(lp2286
+S'58659'
+p2287
+aS'391037'
+p2288
+aS'Salinispora arenicola CNS-205'
+p2289
+aS'NC_009953'
+p2290
+aa(lp2291
+S'58565'
+p2292
+aS'369723'
+p2293
+aS'Salinispora tropica CNB-440'
+p2294
+aS'NC_009380'
+p2295
+aa(lp2296
+S'59431'
+p2297
+aS'454166'
+p2298
+aS'Salmonella enterica subsp. enterica serovar Agona str. SL483'
+p2299
+aS'NC_011149,NC_011148'
+p2300
+aa(lp2301
+S'58017'
+p2302
+aS'321314'
+p2303
+aS'Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67'
+p2304
+aS'NC_006855,NC_006905,NC_006856'
+p2305
+aa(lp2306
+S'58917'
+p2307
+aS'439851'
+p2308
+aS'Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853'
+p2309
+aS'NC_011205,NC_011204'
+p2310
+aa(lp2311
+g80
+aS'550537'
+p2312
+aS'Salmonella enterica subsp. enterica serovar Enteritidis str. P125109'
+p2313
+aS'NC_011294'
+p2314
+aa(lp2315
+S'59247'
+p2316
+aS'550537'
+p2317
+aS'Salmonella enterica subsp. enterica serovar Enteritidis str. P125109'
+p2318
+ag80
+aa(lp2319
+S'59249'
+p2320
+aS'550538'
+p2321
+aS'Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91'
+p2322
+aS'NC_011274'
+p2323
+aa(lp2324
+S'58973'
+p2325
+aS'454169'
+p2326
+aS'Salmonella enterica subsp. enterica serovar Heidelberg str. SL476'
+p2327
+aS'NC_011083,NC_011082,NC_011081'
+p2328
+aa(lp2329
+S'58831'
+p2330
+aS'423368'
+p2331
+aS'Salmonella enterica subsp. enterica serovar Newport str. SL254'
+p2332
+aS'NC_011080,NC_011079,NC_009140'
+p2333
+aa(lp2334
+S'59269'
+p2335
+aS'554290'
+p2336
+aS'Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601'
+p2337
+aS'NC_011147'
+p2338
+aa(lp2339
+S'58201'
+p2340
+aS'295319'
+p2341
+aS'Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150'
+p2342
+aS'NC_006511'
+p2343
+aa(lp2344
+S'59063'
+p2345
+aS'476213'
+p2346
+aS'Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594'
+p2347
+aS'NC_012125,NC_012124'
+p2348
+aa(lp2349
+S'58915'
+p2350
+aS'439843'
+p2351
+aS'Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633'
+p2352
+aS'NC_011094,NC_011093,NC_011092'
+p2353
+aa(lp2354
+S'57793'
+p2355
+aS'220341'
+p2356
+aS'Salmonella enterica subsp. enterica serovar Typhi str. CT18'
+p2357
+aS'NC_003198,NC_003384,NC_003385'
+p2358
+aa(lp2359
+S'57973'
+p2360
+aS'209261'
+p2361
+aS'Salmonella enterica subsp. enterica serovar Typhi str. Ty2'
+p2362
+aS'NC_004631'
+p2363
+aa(lp2364
+g80
+aS'99287'
+p2365
+aS'Salmonella enterica subsp. enterica serovar Typhimurium str. LT2'
+p2366
+aS'NC_003197,NC_003277'
+p2367
+aa(lp2368
+g80
+aS'99287'
+p2369
+aS'Salmonella enterica subsp. enterica serovar Typhimurium str. LT2'
+p2370
+ag80
+aa(lp2371
+g80
+aS'99287'
+p2372
+aS'Salmonella enterica subsp. enterica serovar Typhimurium str. LT2'
+p2373
+ag80
+aa(lp2374
+S'57799'
+p2375
+aS'99287'
+p2376
+aS'Salmonella enterica subsp. enterica serovar Typhimurium str. LT2'
+p2377
+ag80
+aa(lp2378
+S'41865'
+p2379
+aS'526218'
+p2380
+aS'Sebaldella termitidis ATCC 33386'
+p2381
+aS'NC_013517,NC_013519,NC_013518'
+p2382
+aa(lp2383
+S'58743'
+p2384
+aS'402882'
+p2385
+aS'Shewanella baltica OS185'
+p2386
+aS'NC_009665,NC_009661'
+p2387
+aa(lp2388
+S'58261'
+p2389
+aS'399599'
+p2390
+aS'Shewanella baltica OS195'
+p2391
+aS'NC_009997,NC_009999,NC_010000,NC_009998'
+p2392
+aa(lp2393
+S'58745'
+p2394
+aS'225849'
+p2395
+aS'Shewanella piezotolerans WP3'
+p2396
+aS'NC_011566'
+p2397
+aa(lp2398
+S'58267'
+p2399
+aS'319224'
+p2400
+aS'Shewanella putrefaciens CN-32'
+p2401
+aS'NC_009438'
+p2402
+aa(lp2403
+S'58347'
+p2404
+aS'94122'
+p2405
+aS'Shewanella sp. ANA-3'
+p2406
+aS'NC_008573,NC_008577'
+p2407
+aa(lp2408
+S'58341'
+p2409
+aS'351745'
+p2410
+aS'Shewanella sp. W3-18-1'
+p2411
+aS'NC_008750'
+p2412
+aa(lp2413
+S'58215'
+p2414
+aS'300268'
+p2415
+aS'Shigella boydii Sb227'
+p2416
+aS'NC_007613,NC_007608'
+p2417
+aa(lp2418
+g80
+aS'198215'
+p2419
+aS'Shigella flexneri 2a str. 2457T'
+p2420
+aS'NC_004741'
+p2421
+aa(lp2422
+S'57991'
+p2423
+aS'198215'
+p2424
+aS'Shigella flexneri 2a str. 2457T'
+p2425
+ag80
+aa(lp2426
+S'58583'
+p2427
+aS'373384'
+p2428
+aS'Shigella flexneri 5 str. 8401'
+p2429
+aS'NC_008258'
+p2430
+aa(lp2431
+S'58217'
+p2432
+aS'300269'
+p2433
+aS'Shigella sonnei Ss046'
+p2434
+aS'NC_007384,NC_007385,NC_009345,NC_009346,NC_009347'
+p2435
+aa(lp2436
+S'61629'
+p2437
+aS'448385'
+p2438
+aS"Sorangium cellulosum 'So ce 56'"
+p2439
+aS'NC_010162'
+p2440
+aa(lp2441
+S'41997'
+p2442
+aS'479434'
+p2443
+aS'Sphaerobacter thermophilus DSM 20745'
+p2444
+aS'NC_013523,NC_013524'
+p2445
+aa(lp2446
+S'51369'
+p2447
+aS'573413'
+p2448
+aS'Spirochaeta smaragdinae DSM 11293'
+p2449
+aS'NC_014364'
+p2450
+aa(lp2451
+S'63633'
+p2452
+aS'158189'
+p2453
+aS'Spirochaeta sp. Buddy'
+p2454
+aS'NC_015152'
+p2455
+aa(lp2456
+S'53037'
+p2457
+aS'665571'
+p2458
+aS'Spirochaeta thermophila DSM 6192'
+p2459
+aS'NC_014484'
+p2460
+aa(lp2461
+S'43413'
+p2462
+aS'504472'
+p2463
+aS'Spirosoma linguale DSM 74'
+p2464
+aS'NC_013730,NC_013732,NC_013733,NC_013734,NC_013735,NC_013736,NC_013737,NC_013738,NC_013731'
+p2465
+aa(lp2466
+S'46663'
+p2467
+aS'446470'
+p2468
+aS'Stackebrandtia nassauensis DSM 44728'
+p2469
+aS'NC_013947'
+p2470
+aa(lp2471
+S'57663'
+p2472
+aS'176279'
+p2473
+aS'Staphylococcus epidermidis RP62A'
+p2474
+aS'NC_002976,NC_006663'
+p2475
+aa(lp2476
+S'46233'
+p2477
+aS'698737'
+p2478
+aS'Staphylococcus lugdunensis HKU09-01'
+p2479
+aS'NC_013893'
+p2480
+aa(lp2481
+S'45893'
+p2482
+aS'591019'
+p2483
+aS'Staphylothermus hellenicus DSM 12710'
+p2484
+aS'NC_014205'
+p2485
+aa(lp2486
+S'58719'
+p2487
+aS'399550'
+p2488
+aS'Staphylothermus marinus F1'
+p2489
+aS'NC_009033'
+p2490
+aa(lp2491
+S'41863'
+p2492
+aS'519441'
+p2493
+aS'Streptobacillus moniliformis DSM 12112'
+p2494
+aS'NC_013515,NC_013516'
+p2495
+aa(lp2496
+S'57943'
+p2497
+aS'208435'
+p2498
+aS'Streptococcus agalactiae 2603V/R'
+p2499
+aS'NC_004116'
+p2500
+aa(lp2501
+S'57935'
+p2502
+aS'205921'
+p2503
+aS'Streptococcus agalactiae A909'
+p2504
+aS'NC_007432'
+p2505
+aa(lp2506
+S'61585'
+p2507
+aS'211110'
+p2508
+aS'Streptococcus agalactiae NEM316'
+p2509
+aS'NC_004368'
+p2510
+aa(lp2511
+S'59103'
+p2512
+aS'486410'
+p2513
+aS'Streptococcus dysgalactiae subsp. equisimilis GGS_124'
+p2514
+aS'NC_012891'
+p2515
+aa(lp2516
+S'59261'
+p2517
+aS'40041'
+p2518
+aS'Streptococcus equi subsp. zooepidemicus'
+p2519
+aS'NC_012470'
+p2520
+aa(lp2521
+S'59263'
+p2522
+aS'552526'
+p2523
+aS'Streptococcus equi subsp. zooepidemicus MGCS10565'
+p2524
+aS'NC_011134'
+p2525
+aa(lp2526
+S'46061'
+p2527
+aS'637909'
+p2528
+aS'Streptococcus gallolyticus UCN34'
+p2529
+aS'NC_013798'
+p2530
+aa(lp2531
+S'63617'
+p2532
+aS'990317'
+p2533
+aS'Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069'
+p2534
+aS'NC_015215,NC_015219'
+p2535
+aa(lp2536
+S'57667'
+p2537
+aS'467705'
+p2538
+aS'Streptococcus gordonii str. Challis substr. CH1'
+p2539
+aS'NC_009785'
+p2540
+aa(lp2541
+S'46353'
+p2542
+aS'511691'
+p2543
+aS'Streptococcus mutans NN2025'
+p2544
+aS'NC_013928'
+p2545
+aa(lp2546
+S'57947'
+p2547
+aS'210007'
+p2548
+aS'Streptococcus mutans UA159'
+p2549
+aS'NC_004350'
+p2550
+aa(lp2551
+S'57845'
+p2552
+aS'160490'
+p2553
+aS'Streptococcus pyogenes M1 GAS'
+p2554
+aS'NC_002737'
+p2555
+aa(lp2556
+S'58571'
+p2557
+aS'370552'
+p2558
+aS'Streptococcus pyogenes MGAS10270'
+p2559
+aS'NC_008022'
+p2560
+aa(lp2561
+S'58575'
+p2562
+aS'370554'
+p2563
+aS'Streptococcus pyogenes MGAS10750'
+p2564
+aS'NC_008024'
+p2565
+aa(lp2566
+S'58573'
+p2567
+aS'370553'
+p2568
+aS'Streptococcus pyogenes MGAS2096'
+p2569
+aS'NC_008023'
+p2570
+aa(lp2571
+S'58337'
+p2572
+aS'293653'
+p2573
+aS'Streptococcus pyogenes MGAS5005'
+p2574
+aS'NC_007297'
+p2575
+aa(lp2576
+S'58335'
+p2577
+aS'319701'
+p2578
+aS'Streptococcus pyogenes MGAS6180'
+p2579
+aS'NC_007296'
+p2580
+aa(lp2581
+S'58569'
+p2582
+aS'370551'
+p2583
+aS'Streptococcus pyogenes MGAS9429'
+p2584
+aS'NC_008021'
+p2585
+aa(lp2586
+S'59035'
+p2587
+aS'471876'
+p2588
+aS'Streptococcus pyogenes NZ131'
+p2589
+aS'NC_011375'
+p2590
+aa(lp2591
+S'58381'
+p2592
+aS'388919'
+p2593
+aS'Streptococcus sanguinis SK36'
+p2594
+aS'NC_009009'
+p2595
+aa(lp2596
+S'58221'
+p2597
+aS'299768'
+p2598
+aS'Streptococcus thermophilus CNRZ1066'
+p2599
+aS'NC_006449'
+p2600
+aa(lp2601
+S'58327'
+p2602
+aS'322159'
+p2603
+aS'Streptococcus thermophilus LMD-9'
+p2604
+aS'NC_008532,NC_008500,NC_008501'
+p2605
+aa(lp2606
+S'58219'
+p2607
+aS'264199'
+p2608
+aS'Streptococcus thermophilus LMG 18311'
+p2609
+aS'NC_006448'
+p2610
+aa(lp2611
+S'57739'
+p2612
+aS'227882'
+p2613
+aS'Streptomyces avermitilis MA-4680'
+p2614
+aS'NC_003155,NC_004719'
+p2615
+aa(lp2616
+S'57801'
+p2617
+aS'100226'
+p2618
+aS'Streptomyces coelicolor A3(2)'
+p2619
+aS'NC_003888,NC_003903,NC_003904'
+p2620
+aa(lp2621
+S'58983'
+p2622
+aS'455632'
+p2623
+aS'Streptomyces griseus subsp. griseus NBRC 13350'
+p2624
+aS'NC_010572'
+p2625
+aa(lp2626
+S'58379'
+p2627
+aS'330779'
+p2628
+aS'Sulfolobus acidocaldarius DSM 639'
+p2629
+aS'NC_007181'
+p2630
+aa(lp2631
+S'43679'
+p2632
+aS'425944'
+p2633
+aS'Sulfolobus islandicus L.D.8.5'
+p2634
+aS'NC_013769,NC_013770'
+p2635
+aa(lp2636
+S'58871'
+p2637
+aS'429572'
+p2638
+aS'Sulfolobus islandicus L.S.2.15'
+p2639
+aS'NC_012589'
+p2640
+aa(lp2641
+S'58849'
+p2642
+aS'427317'
+p2643
+aS'Sulfolobus islandicus M.14.25'
+p2644
+aS'NC_012588'
+p2645
+aa(lp2646
+S'58851'
+p2647
+aS'427318'
+p2648
+aS'Sulfolobus islandicus M.16.27'
+p2649
+aS'NC_012632'
+p2650
+aa(lp2651
+S'58841'
+p2652
+aS'426118'
+p2653
+aS'Sulfolobus islandicus M.16.4'
+p2654
+aS'NC_012726'
+p2655
+aa(lp2656
+S'58923'
+p2657
+aS'439386'
+p2658
+aS'Sulfolobus islandicus Y.G.57.14'
+p2659
+aS'NC_012622'
+p2660
+aa(lp2661
+S'58825'
+p2662
+aS'419942'
+p2663
+aS'Sulfolobus islandicus Y.N.15.51'
+p2664
+aS'NC_012623,NC_012624'
+p2665
+aa(lp2666
+S'57721'
+p2667
+aS'273057'
+p2668
+aS'Sulfolobus solfataricus P2'
+p2669
+aS'NC_002754'
+p2670
+aa(lp2671
+S'57807'
+p2672
+aS'273063'
+p2673
+aS'Sulfolobus tokodaii str. 7'
+p2674
+aS'NC_003106'
+p2675
+aa(lp2676
+S'58121'
+p2677
+aS'204536'
+p2678
+aS'Sulfurihydrogenibium azorense Az-Fu1'
+p2679
+aS'NC_012438'
+p2680
+aa(lp2681
+S'58855'
+p2682
+aS'436114'
+p2683
+aS'Sulfurihydrogenibium sp. YO3AOP1'
+p2684
+aS'NC_010730'
+p2685
+aa(lp2686
+S'41861'
+p2687
+aS'525898'
+p2688
+aS'Sulfurospirillum deleyianum DSM 6946'
+p2689
+aS'NC_013512'
+p2690
+aa(lp2691
+S'58165'
+p2692
+aS'292459'
+p2693
+aS'Symbiobacterium thermophilum IAM 14863'
+p2694
+aS'NC_006177'
+p2695
+aa(lp2696
+S'58537'
+p2697
+aS'321332'
+p2698
+aS"Synechococcus sp. JA-2-3B'a(2-13)"
+p2699
+aS'NC_007776'
+p2700
+aa(lp2701
+S'58535'
+p2702
+aS'321327'
+p2703
+aS'Synechococcus sp. JA-3-3Ab'
+p2704
+aS'NC_007775'
+p2705
+aa(lp2706
+S'59137'
+p2707
+aS'32049'
+p2708
+aS'Synechococcus sp. PCC 7002'
+p2709
+aS'NC_010475,NC_010476,NC_010477,NC_010478,NC_010479,NC_010480,NC_010474'
+p2710
+aa(lp2711
+S'58177'
+p2712
+aS'335543'
+p2713
+aS'Syntrophobacter fumaroxidans MPOB'
+p2714
+aS'NC_008554'
+p2715
+aa(lp2716
+S'63343'
+p2717
+aS'645991'
+p2718
+aS'Syntrophobotulus glycolicus DSM 8271'
+p2719
+aS'NC_015172'
+p2720
+aa(lp2721
+S'58179'
+p2722
+aS'335541'
+p2723
+aS'Syntrophomonas wolfei subsp. wolfei str. Goettingen'
+p2724
+aS'NC_008346'
+p2725
+aa(lp2726
+S'49527'
+p2727
+aS'643648'
+p2728
+aS'Syntrophothermus lipocalidus DSM 12680'
+p2729
+aS'NC_014220'
+p2730
+aa(lp2731
+S'58539'
+p2732
+aS'56780'
+p2733
+aS'Syntrophus aciditrophicus SB'
+p2734
+aS'NC_007759'
+p2735
+aa(lp2736
+S'59267'
+p2737
+aS'377629'
+p2738
+aS'Teredinibacter turnerae T7901'
+p2739
+aS'NC_012997'
+p2740
+aa(lp2741
+S'58987'
+p2742
+aS'85643'
+p2743
+aS'Thauera sp. MZ1T'
+p2744
+aS'NC_011662,NC_011667'
+p2745
+aa(lp2746
+S'61727'
+p2747
+aS'644966'
+p2748
+aS'Thermaerobacter marianensis DSM 12885'
+p2749
+aS'NC_014831'
+p2750
+aa(lp2751
+S'48823'
+p2752
+aS'635013'
+p2753
+aS'Thermincola potens JR'
+p2754
+aS'NC_014152'
+p2755
+aa(lp2756
+S'55639'
+p2757
+aS'509193'
+p2758
+aS'Thermoanaerobacter brockii subsp. finnii Ako-1'
+p2759
+aS'NC_014964'
+p2760
+aa(lp2761
+S'46241'
+p2762
+aS'580331'
+p2763
+aS'Thermoanaerobacter italicus Ab9'
+p2764
+aS'NC_013921'
+p2765
+aa(lp2766
+S'49481'
+p2767
+aS'583358'
+p2768
+aS'Thermoanaerobacter mathranii subsp. mathranii str. A3'
+p2769
+aS'NC_014209'
+p2770
+aa(lp2771
+S'58339'
+p2772
+aS'340099'
+p2773
+aS'Thermoanaerobacter pseudethanolicus ATCC 33223'
+p2774
+aS'NC_010321'
+p2775
+aa(lp2776
+S'53065'
+p2777
+aS'573062'
+p2778
+aS'Thermoanaerobacter sp. X513'
+p2779
+aS'NC_014538'
+p2780
+aa(lp2781
+S'58589'
+p2782
+aS'399726'
+p2783
+aS'Thermoanaerobacter sp. X514'
+p2784
+aS'NC_010320'
+p2785
+aa(lp2786
+S'57813'
+p2787
+aS'273068'
+p2788
+aS'Thermoanaerobacter tengcongensis MB4'
+p2789
+aS'NC_003869'
+p2790
+aa(lp2791
+S'51639'
+p2792
+aS'580327'
+p2793
+aS'Thermoanaerobacterium thermosaccharolyticum DSM 571'
+p2794
+aS'NC_014410'
+p2795
+aa(lp2796
+S'42011'
+p2797
+aS'525904'
+p2798
+aS'Thermobaculum terrenum ATCC BAA-798'
+p2799
+aS'NC_013525,NC_013526'
+p2800
+aa(lp2801
+S'57703'
+p2802
+aS'269800'
+p2803
+aS'Thermobifida fusca YX'
+p2804
+aS'NC_007333'
+p2805
+aa(lp2806
+S'48999'
+p2807
+aS'469371'
+p2808
+aS'Thermobispora bispora DSM 43833'
+p2809
+aS'NC_014165'
+p2810
+aa(lp2811
+S'54733'
+p2812
+aS'391623'
+p2813
+aS'Thermococcus barophilus MP'
+p2814
+aS'NC_014804,NC_015471'
+p2815
+aa(lp2816
+S'59389'
+p2817
+aS'593117'
+p2818
+aS'Thermococcus gammatolerans EJ3'
+p2819
+aS'NC_012804'
+p2820
+aa(lp2821
+S'58225'
+p2822
+aS'69014'
+p2823
+aS'Thermococcus kodakarensis KOD1'
+p2824
+aS'NC_006624'
+p2825
+aa(lp2826
+S'59043'
+p2827
+aS'523850'
+p2828
+aS'Thermococcus onnurineus NA1'
+p2829
+aS'NC_011529'
+p2830
+aa(lp2831
+S'59399'
+p2832
+aS'604354'
+p2833
+aS'Thermococcus sibiricus MM 739'
+p2834
+aS'NC_012883'
+p2835
+aa(lp2836
+S'46231'
+p2837
+aS'638303'
+p2838
+aS'Thermocrinis albus DSM 14484'
+p2839
+aS'NC_013894'
+p2840
+aa(lp2841
+S'59257'
+p2842
+aS'289376'
+p2843
+aS'Thermodesulfovibrio yellowstonii DSM 11347'
+p2844
+aS'NC_011296'
+p2845
+aa(lp2846
+S'58563'
+p2847
+aS'368408'
+p2848
+aS'Thermofilum pendens Hrk 5'
+p2849
+aS'NC_008698,NC_008696'
+p2850
+aa(lp2851
+S'59341'
+p2852
+aS'309801'
+p2853
+aS'Thermomicrobium roseum DSM 5159'
+p2854
+aS'NC_011959,NC_011961'
+p2855
+aa(lp2856
+S'41885'
+p2857
+aS'471852'
+p2858
+aS'Thermomonospora curvata DSM 43183'
+p2859
+aS'NC_013510'
+p2860
+aa(lp2861
+S'61573'
+p2862
+aS'273075'
+p2863
+aS'Thermoplasma acidophilum DSM 1728'
+p2864
+aS'NC_002578'
+p2865
+aa(lp2866
+S'57751'
+p2867
+aS'273116'
+p2868
+aS'Thermoplasma volcanium GSS1'
+p2869
+aS'NC_002689'
+p2870
+aa(lp2871
+S'58421'
+p2872
+aS'444157'
+p2873
+aS'Thermoproteus neutrophilus V24Sta'
+p2874
+aS'NC_010525'
+p2875
+aa(lp2876
+S'51421'
+p2877
+aS'555079'
+p2878
+aS'Thermosediminibacter oceani DSM 16646'
+p2879
+aS'NC_014377'
+p2880
+aa(lp2881
+S'59095'
+p2882
+aS'484019'
+p2883
+aS'Thermosipho africanus TCF52B'
+p2884
+aS'NC_011653'
+p2885
+aa(lp2886
+S'58683'
+p2887
+aS'391009'
+p2888
+aS'Thermosipho melanesiensis BI429'
+p2889
+aS'NC_009616'
+p2890
+aa(lp2891
+S'48993'
+p2892
+aS'633148'
+p2893
+aS'Thermosphaera aggregans DSM 11486'
+p2894
+aS'NC_014160'
+p2895
+aa(lp2896
+S'58419'
+p2897
+aS'416591'
+p2898
+aS'Thermotoga lettingae TMO'
+p2899
+aS'NC_009828'
+p2900
+aa(lp2901
+g80
+aS'243274'
+p2902
+aS'Thermotoga maritima MSB8'
+p2903
+aS'NC_000853'
+p2904
+aa(lp2905
+S'57723'
+p2906
+aS'243274'
+p2907
+aS'Thermotoga maritima MSB8'
+p2908
+ag80
+aa(lp2909
+S'42777'
+p2910
+aS'590168'
+p2911
+aS'Thermotoga naphthophila RKU-10'
+p2912
+aS'NC_013642'
+p2913
+aa(lp2914
+g80
+aS'309803'
+p2915
+aS'Thermotoga neapolitana DSM 4359'
+p2916
+aS'NC_011978'
+p2917
+aa(lp2918
+S'59065'
+p2919
+aS'309803'
+p2920
+aS'Thermotoga neapolitana DSM 4359'
+p2921
+ag80
+aa(lp2922
+S'58655'
+p2923
+aS'390874'
+p2924
+aS'Thermotoga petrophila RKU-1'
+p2925
+aS'NC_009486'
+p2926
+aa(lp2927
+S'58935'
+p2928
+aS'126740'
+p2929
+aS'Thermotoga sp. RQ2'
+p2930
+aS'NC_010483'
+p2931
+aa(lp2932
+S'62095'
+p2933
+aS'648996'
+p2934
+aS'Thermovibrio ammonificans HB-1'
+p2935
+aS'NC_014917,NC_014926'
+p2936
+aa(lp2937
+S'62273'
+p2938
+aS'743525'
+p2939
+aS'Thermus scotoductus SA-01'
+p2940
+aS'NC_014974,NC_014975'
+p2941
+aa(lp2942
+S'58033'
+p2943
+aS'262724'
+p2944
+aS'Thermus thermophilus HB27'
+p2945
+aS'NC_005835,NC_005838'
+p2946
+aa(lp2947
+S'58223'
+p2948
+aS'300852'
+p2949
+aS'Thermus thermophilus HB8'
+p2950
+aS'NC_006461,NC_006463,NC_006462'
+p2951
+aa(lp2952
+S'46181'
+p2953
+aS'396595'
+p2954
+aS'Thioalkalivibrio sp. K90mix'
+p2955
+aS'NC_013889,NC_013930'
+p2956
+aa(lp2957
+S'59179'
+p2958
+aS'396588'
+p2959
+aS'Thioalkalivibrio sulfidophilus HL-EbGr7'
+p2960
+aS'NC_011901'
+p2961
+aa(lp2962
+S'59395'
+p2963
+aS'595494'
+p2964
+aS'Tolumonas auensis DSM 9187'
+p2965
+aS'NC_012691'
+p2966
+aa(lp2967
+S'57583'
+p2968
+aS'243275'
+p2969
+aS'Treponema denticola ATCC 35405'
+p2970
+aS'NC_002967'
+p2971
+aa(lp2972
+S'57925'
+p2973
+aS'203124'
+p2974
+aS'Trichodesmium erythraeum IMS101'
+p2975
+aS'NC_008312'
+p2976
+aa(lp2977
+S'49533'
+p2978
+aS'649638'
+p2979
+aS'Truepera radiovictrix DSM 17093'
+p2980
+aS'NC_014221'
+p2981
+aa(lp2982
+S'41927'
+p2983
+aS'479436'
+p2984
+aS'Veillonella parvula DSM 2008'
+p2985
+aS'NC_013520'
+p2986
+aa(lp2987
+S'58675'
+p2988
+aS'391735'
+p2989
+aS'Verminephrobacter eiseniae EF01-2'
+p2990
+aS'NC_008786,NC_008771'
+p2991
+aa(lp2992
+g80
+aS'338187'
+p2993
+aS'Vibrio harveyi ATCC BAA-1116'
+p2994
+aS'NC_009783,NC_009784,NC_009777'
+p2995
+aa(lp2996
+S'58957'
+p2997
+aS'338187'
+p2998
+aS'Vibrio harveyi ATCC BAA-1116'
+p2999
+ag80
+aa(lp3000
+S'57969'
+p3001
+aS'223926'
+p3002
+aS'Vibrio parahaemolyticus RIMD 2210633'
+p3003
+aS'NC_004603,NC_004605'
+p3004
+aa(lp3005
+S'58007'
+p3006
+aS'196600'
+p3007
+aS'Vibrio vulnificus YJ016'
+p3008
+aS'NC_005139,NC_005140,NC_005128'
+p3009
+aa(lp3010
+S'52827'
+p3011
+aS'572478'
+p3012
+aS'Vulcanisaeta distributa DSM 14429'
+p3013
+aS'NC_014537'
+p3014
+aa(lp3015
+S'63631'
+p3016
+aS'985053'
+p3017
+aS'Vulcanisaeta moutnovskia 768-28'
+p3018
+aS'NC_015151'
+p3019
+aa(lp3020
+S'63627'
+p3021
+aS'865938'
+p3022
+aS'Weeksella virosa DSM 16922'
+p3023
+aS'NC_015144'
+p3024
+aa(lp3025
+S'61591'
+p3026
+aS'273121'
+p3027
+aS'Wolinella succinogenes DSM 1740'
+p3028
+aS'NC_005090'
+p3029
+aa(lp3030
+S'57889'
+p3031
+aS'190486'
+p3032
+aS'Xanthomonas axonopodis pv. citri str. 306'
+p3033
+aS'NC_003919,NC_003921,NC_003922'
+p3034
+aa(lp3035
+S'58155'
+p3036
+aS'291331'
+p3037
+aS'Xanthomonas oryzae pv. oryzae KACC10331'
+p3038
+aS'NC_006834'
+p3039
+aa(lp3040
+S'58547'
+p3041
+aS'342109'
+p3042
+aS'Xanthomonas oryzae pv. oryzae MAFF 311018'
+p3043
+aS'NC_007705'
+p3044
+aa(lp3045
+S'59131'
+p3046
+aS'360094'
+p3047
+aS'Xanthomonas oryzae pv. oryzae PXO99A'
+p3048
+aS'NC_010717'
+p3049
+aa(lp3050
+S'46345'
+p3051
+aS'406818'
+p3052
+aS'Xenorhabdus bovienii SS-2004'
+p3053
+aS'NC_013892'
+p3054
+aa(lp3055
+S'49133'
+p3056
+aS'406817'
+p3057
+aS'Xenorhabdus nematophila ATCC 19061'
+p3058
+aS'NC_014170,NC_014228'
+p3059
+aa(lp3060
+S'41935'
+p3061
+aS'446471'
+p3062
+aS'Xylanimonas cellulosilytica DSM 15894'
+p3063
+aS'NC_013530,NC_013531'
+p3064
+aa(lp3065
+S'58485'
+p3066
+aS'349746'
+p3067
+aS'Yersinia pestis Angola'
+p3068
+aS'NC_010159,NC_010158,NC_010157'
+p3069
+aa(lp3070
+S'58607'
+p3071
+aS'360102'
+p3072
+aS'Yersinia pestis Antiqua'
+p3073
+aS'NC_008150,NC_008121,NC_008122,NC_008120'
+p3074
+aa(lp3075
+S'57621'
+p3076
+aS'214092'
+p3077
+aS'Yersinia pestis CO92'
+p3078
+aS'NC_003143,NC_003131,NC_003132,NC_003134'
+p3079
+aa(lp3080
+S'57875'
+p3081
+aS'187410'
+p3082
+aS'Yersinia pestis KIM 10'
+p3083
+aS'NC_004088,NC_004838'
+p3084
+aa(lp3085
+S'58609'
+p3086
+aS'377628'
+p3087
+aS'Yersinia pestis Nepal516'
+p3088
+aS'NC_008149,NC_008118,NC_008119'
+p3089
+aa(lp3090
+S'55337'
+p3091
+aS'377628'
+p3092
+aS'Yersinia pestis Nepal516'
+p3093
+ag80
+aa(lp3094
+S'58619'
+p3095
+aS'386656'
+p3096
+aS'Yersinia pestis Pestoides F'
+p3097
+aS'NC_009381,NC_009378,NC_009377'
+p3098
+aa(lp3099
+S'47317'
+p3100
+aS'637386'
+p3101
+aS'Yersinia pestis Z176003'
+p3102
+aS'NC_014029,NC_014022,NC_014017,NC_014027'
+p3103
+aa(lp3104
+S'58037'
+p3105
+aS'229193'
+p3106
+aS'Yersinia pestis biovar Microtus str. 91001'
+p3107
+aS'NC_005810,NC_005813,NC_005814,NC_005815,NC_005816'
+p3108
+aa(lp3109
+S'58487'
+p3110
+aS'349747'
+p3111
+aS'Yersinia pseudotuberculosis IP 31758'
+p3112
+aS'NC_009708,NC_009705,NC_009704'
+p3113
+aa(lp3114
+S'58157'
+p3115
+aS'273123'
+p3116
+aS'Yersinia pseudotuberculosis IP 32953'
+p3117
+aS'NC_006155,NC_006154,NC_006153'
+p3118
+aa(lp3119
+S'59153'
+p3120
+aS'502801'
+p3121
+aS'Yersinia pseudotuberculosis PB1/+'
+p3122
+aS'NC_010634,NC_010635'
+p3123
+aa(lp3124
+S'59151'
+p3125
+aS'502800'
+p3126
+aS'Yersinia pseudotuberculosis YPIII'
+p3127
+aS'NC_010465'
+p3128
+aa(lp3129
+S'48073'
+p3130
+aS'655815'
+p3131
+aS'Zunongwangia profunda SM-A87'
+p3132
+aS'NC_014041'
+p3133
+aa(lp3134
+S'41019'
+p3135
+aS'622759'
+p3136
+aS'Zymomonas mobilis subsp. mobilis NCIMB 11163'
+p3137
+aS'NC_013355,NC_013358,NC_013356,NC_013357'
+p3138
+aa.
